@@ -25,10 +25,10 @@ Building clean, efficient UI with a passion for continuous learning.
 <table>
   <tr>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="" alt="HTML" height="80" />
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFpODF0ZDNjMDNidWJnOG85Yjhnd2MzcDh4ZmZiOG05NW93MnJuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jf7gw3il1I4wm95apY/giphy.gif" alt="HTML" height="80" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdqeTNtb3ViczVjaTRhdmJwem5mNjZxaG91c29reWVtNDlpYWhraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ethO97pQrgv5hcvdcL/giphy.gif" alt="CSS" height="60" />
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVwbTdsODNzM3h4a2s5NzA2N2x1cW5rY2w0Y2NyMmk1MXRycTJxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgpN5K7VTbIfUhk8Od/giphy.gif" alt="CSS" height="60" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" height="80" />
