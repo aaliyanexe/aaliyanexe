@@ -9,7 +9,8 @@ I’m **Ahmed Aaliyan** (`@aaliyanexe`), a Front-End Developer focused on master
 - **TypeScript**  
 - **Zustand**  
 - **React Query**  
-- **React**  
+- **React**
+- **Zod**
 
 Driven by a commitment to write clean, maintainable code and deliver seamless user experiences. I am dedicated to continuous learning and skill advancement, currently focusing on building robust frontend applications.
 
