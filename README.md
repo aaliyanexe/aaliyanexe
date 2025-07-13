@@ -1,23 +1,20 @@
-# 🚀 Ahmed Aaliyan – Front-End Explorer & Cosmic Coder
+# 🚀 Ahmed Aaliyan – Front-End Developer
 
-> *“Building cosmic UI experiences one pixel at a time, fueled by curiosity and caffeine.”*
+> *“Building efficient and user-friendly interfaces with precision and dedication.”*
 
 ## 👋 About Me
 
-🌌 Hey there, fellow traveler! I’m **Ahmed Aaliyan** (`@aaliyanexe`), a passionate **Front-End Developer** navigating the vast universe of web technologies.  
+I’m **Ahmed Aaliyan** (`@aaliyanexe`), a Front-End Developer focused on mastering the core technologies of web development. With foundational skills in **HTML, CSS, and JavaScript**, I am currently expanding my expertise to include:  
+- **Tailwind CSS**  
+- **TypeScript**  
+- **Zustand**  
+- **React Query**  
+- **React**  
 
-✨ Currently mastering the essentials — **HTML, CSS, and JavaScript** — while preparing to launch into the stratosphere with:  
-- **Tailwind CSS** — styling at warp speed  
-- **TypeScript** — adding stellar type safety  
-- **Zustand** & **React Query** — managing state and data like a pro  
-- **React** — crafting interactive, out-of-this-world interfaces  
+Driven by a commitment to write clean, maintainable code and deliver seamless user experiences. I am dedicated to continuous learning and skill advancement, currently focusing on building robust frontend applications.
 
-🚀 On a mission to create sleek, smooth, and scalable user experiences that are truly stellar. No rush to land jobs just yet — I’m here to learn, build, and orbit around new ideas at my own pace.  
+## Interests  
 
-## 🌌 Cosmic Vibes  
-
-🛰️ Fun fact: When not coding in zero gravity, I’m either watching MMA bouts, cheering for football matches, or gazing at the stars and dreaming of the next frontier.  
+Outside of development, I am passionate about space exploration, football, and mixed martial arts, which inspire my discipline and perseverance.
 
 ---
-
-
