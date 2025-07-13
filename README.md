@@ -19,49 +19,45 @@ Building clean, efficient UI with a passion for continuous learning.
 
 <table>
   <tr>
-    <!-- Big block (e.g. React) -->
-    <td rowspan="2" align="center" width="250" style="background:#0b1a2d; border-radius:12px; padding:10px;">
-      <img src="" alt="React" height="100" />
+    <td align="center" width="120" style="background:linear-gradient(145deg,#0b1a2d,#142e52); border: 2px solid #1ec4ff; border-radius:10px; padding:6px;">
+      <img src="" alt="HTML" height="80" />
     </td>
-    
-    <!-- Two medium blocks -->
-    <td align="center" width="120" style="background:#142e52; border-radius:12px; padding:10px;">
-      <img src="" alt="HTML" height="70" />
+    <td align="center" width="120" style="background:linear-gradient(145deg,#0b1a2d,#142e52); border: 2px solid #ff6bcb; border-radius:10px; padding:6px;">
+      <img src="" alt="CSS" height="80" />
     </td>
-    <td align="center" width="120" style="background:#142e52; border-radius:12px; padding:10px;">
-      <img src="" alt="CSS" height="70" />
+    <td align="center" width="120" style="background:linear-gradient(145deg,#0b1a2d,#234c85); border: 2px solid #f9d423; border-radius:10px; padding:6px;">
+      <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" height="80" />
     </td>
-    
-    <!-- Tall block -->
-    <td rowspan="2" align="center" width="120" style="background:#1b3c6b; border-radius:12px; padding:10px;">
-      <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" height="90" />
+    <td align="center" width="120" style="background:linear-gradient(145deg,#0b1a2d,#1b3c6b); border: 2px solid #42f2f7; border-radius:10px; padding:6px;">
+      <img src="" alt="React" height="80" />
     </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="120" style="background:#1e487c; border-radius:12px; padding:10px;">
-      <img src="" alt="Tailwind CSS" height="70" />
+    <td align="center" width="120" style="background:linear-gradient(145deg,#0b1a2d,#265077); border: 2px solid #ff7b00; border-radius:10px; padding:6px;">
+      <img src="" alt="Tailwind CSS" height="80" />
     </td>
-    <td align="center" width="120" style="background:#1e487c; border-radius:12px; padding:10px;">
-      <img src="" alt="TypeScript" height="70" />
+    <td align="center" width="120" style="background:linear-gradient(145deg,#0b1a2d,#2d5f92); border: 2px solid #dfff00; border-radius:10px; padding:6px;">
+      <img src="" alt="TypeScript" height="80" />
+    </td>
+    <td align="center" width="120" style="background:linear-gradient(145deg,#0b1a2d,#3470aa); border: 2px solid #e23cfd; border-radius:10px; padding:6px;">
+      <img src="" alt="Zustand" height="80" />
     </td>
   </tr>
-  
   <tr>
-    <td align="center" width="120" style="background:#234c85; border-radius:12px; padding:10px;">
-      <img src="" alt="Zustand" height="70" />
+    <td align="center" width="120" style="background:linear-gradient(145deg,#0b1a2d,#3470aa); border: 2px solid #14f195; border-radius:10px; padding:6px;">
+      <img src="" alt="React Query" height="80" />
     </td>
-    <td align="center" width="120" style="background:#234c85; border-radius:12px; padding:10px;">
-      <img src="" alt="React Query" height="70" />
+    <td align="center" width="120" style="background:linear-gradient(145deg,#0b1a2d,#265077); border: 2px solid #f54291; border-radius:10px; padding:6px;">
+      <img src="" alt="Zod" height="80" />
     </td>
-    <td align="center" width="120" style="background:#234c85; border-radius:12px; padding:10px;">
-      <img src="" alt="Zod" height="70" />
+    <td align="center" width="120" style="background:linear-gradient(145deg,#0b1a2d,#1b3c6b); border: 2px solid #42f2f7; border-radius:10px; padding:6px;">
+      <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="REST API" height="80" />
     </td>
-    <td align="center" width="120" style="background:#234c85; border-radius:12px; padding:10px;">
-      <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="REST API" height="70" />
-    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
+
 
 
 ## Interests  
