@@ -37,7 +37,7 @@ Building clean, efficient UI with a passion for continuous learning.
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNvd293bGJzdndxaGJieGpqM2VjazBpMjk0d3Byamp1ZnBodWt0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zFBxCCpKmuWxnFvOQS/giphy.gif" alt="React" height="70" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="" alt="Tailwind CSS" height="80" />
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFybDc2M3M5aDh2ZTliZ3ZwMWU4YWFvN29hN2oyYjRueG1vdjlpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/honZ5F0oKKxZfaELyi/giphy.gif" alt="Tailwind CSS" height="80" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="" alt="TypeScript" height="80" />
