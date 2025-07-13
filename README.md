@@ -1,4 +1,4 @@
-# 🚀 Ahmed Aaliyan – Front-End Developer
+# 👨‍🚀 Ahmed Aaliyan – Front-End Developer
 
 > *“Building efficient and user-friendly interfaces with precision and dedication.”*
 
@@ -15,7 +15,7 @@ Focused on frontend development — mastering HTML, CSS, JavaScript, and expandi
 
 Building clean, efficient UI with a passion for continuous learning.
 
-## 🛠️ Skills & Technologies 🚀
+## 🛠️ Skills & Technologies 🛸☄️🪐🛰️
 
 <table>
   <tr>
