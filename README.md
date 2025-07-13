@@ -40,7 +40,7 @@ Building clean, efficient UI with a passion for continuous learning.
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFybDc2M3M5aDh2ZTliZ3ZwMWU4YWFvN29hN2oyYjRueG1vdjlpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/honZ5F0oKKxZfaELyi/giphy.gif" alt="Tailwind CSS" height="80" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="" alt="TypeScript" height="80" />
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnV6NTQ4cDljOHdhN3NuZDdoNTE4bWx4OG96NDdjZGEwbnN1Y283byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wJ3soNxg9bETCd0f2J/giphy.gif" alt="TypeScript" height="80" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="" alt="Zustand" height="80" />
