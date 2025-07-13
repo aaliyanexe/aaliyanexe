@@ -5,10 +5,9 @@
 ## 👋 About Me
 
 I’m **Ahmed Aaliyan** a Front-End Developer focused on mastering the core technologies of web development. With foundational skills in **HTML, CSS, and JavaScript**, I am currently expanding my expertise to include:  
-- Currently working on core frontend skills and expanding my stack with:  
-  **Tailwind CSS** &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; **TypeScript**  
-  **Zustand** &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; **React Query**  
-  **React** &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; **Zod**  
+- **Tailwind CSS** &nbsp;&nbsp;•&nbsp;&nbsp; **TypeScript**  
+- **Zustand** &nbsp;&nbsp;•&nbsp;&nbsp; **React Query**  
+- **React** &nbsp;&nbsp;•&nbsp;&nbsp; **Zod**
 
 
 Driven by a commitment to write clean, maintainable code and deliver seamless user experiences. I am dedicated to continuous learning and skill advancement, currently focusing on building robust frontend applications.
