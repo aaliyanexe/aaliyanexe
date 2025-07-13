@@ -1,6 +1,6 @@
 # 👨‍🚀 Ahmed Aaliyan – Front-End Developer
 
-> *“Building efficient and user-friendly interfaces with precision and dedication.”*
+---
 
 ## 👋 About Me
 
@@ -12,8 +12,11 @@ Focused on frontend development — mastering HTML, CSS, JavaScript, and expandi
 - **React Query**  
 - **React**  
 - **Zod**  
+- **Git & GitHub**
 
 Building clean, efficient UI with a passion for continuous learning.
+
+---
 
 ## 🛠️ Skills & Technologies 🛰️
 
@@ -62,8 +65,17 @@ Building clean, efficient UI with a passion for continuous learning.
   </tr>
 </table>
 
-## Interests  
+---
 
-Outside of development, I am passionate about space exploration, football, and mixed martial arts, which inspire my discipline and perseverance.
+## 🌌 Interests
+
+Outside of development, I’m passionate about:
+
+- 🪐 Space exploration
+- ⚽ Football
+- 🥋 Mixed Martial Arts (MMA)
+
+These passions fuel my creativity, discipline, and drive to keep learning and growing.
 
 ---
+
