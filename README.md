@@ -34,7 +34,7 @@ Building clean, efficient UI with a passion for continuous learning.
       <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" height="80" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://lottie.host/bb3b0c53-4b09-457a-9279-c152e3dc5e2f/OTtWjdRP1w.lottie" alt="React" height="80" />
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpoemJmcHJ4NzhsMDBwbnpudGg2em9raDJzcW50ZWtqdzU5Z3p6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3vUYQU1DajwbgWqzXo/giphy.gif" alt="React" height="80" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="" alt="Tailwind CSS" height="80" />
