@@ -15,7 +15,7 @@ Focused on frontend development — mastering HTML, CSS, JavaScript, and expandi
 
 Building clean, efficient UI with a passion for continuous learning.
 
-## 🛠️ Skills & Technologies 🛸☄️🪐🛰️
+## 🛠️ Skills & Technologies 🛰️
 
 <table>
   <tr>
