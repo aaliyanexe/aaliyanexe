@@ -51,7 +51,7 @@ Building clean, efficient UI with a passion for continuous learning.
       <img src="" alt="Git" height="80" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="75" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="80" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmd1amR2NzRldjNjbTZqY2JiOTVpMjFlMjk5YjIwMzFmZTFsM3d4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7hySyjrTYYLSorToiT/giphy.gif" alt="React Query" height="60" />
