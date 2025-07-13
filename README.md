@@ -23,16 +23,15 @@ Driven by a commitment to write clean, maintainable code and deliver seamless us
       <img src="" alt="HTML Logo" height="80" /><br>
       <b>🌟 HTML</b>
     </td>
-    <td align="center" width="200" style="background:#0b1a2d; border-radius:12px; padding:10px; color:#a9c1e3;">
+  <td align="center" width="200" style="background:#0b1a2d; border-radius:12px; padding:10px; color:#a9c1e3;">
       <!-- Add your CSS animated logo here -->
       <img src="" alt="CSS Logo" height="80" /><br>
       <b>✨ CSS</b>
-    </td>
+  </td>
     <td align="center" width="200" style="background:#0b1a2d; border-radius:12px; padding:10px; color:#a9c1e3;">
-      <!-- Add your JavaScript animated logo here -->
-      <img src="" alt="JavaScript Logo" height="80" /><br>
-      <b>🚀 JavaScript</b>
-    </td>
+      <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667"       alt="JavaScript Logo" height="80" /><br>
+  <b>🚀 JavaScript</b>
+</td>
     <td align="center" width="200" style="background:#0b1a2d; border-radius:12px; padding:10px; color:#a9c1e3;">
       <!-- Add your React animated logo here -->
       <img src="" alt="React Logo" height="80" /><br>
