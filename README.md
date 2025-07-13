@@ -37,11 +37,11 @@ Building clean, efficient UI with a passion for continuous learning.
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="" alt="TypeScript" height="80" />
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="" alt="Zustand" height="80" />
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="" alt="React Query" height="80" />
     </td>
@@ -53,9 +53,10 @@ Building clean, efficient UI with a passion for continuous learning.
     </td>
     <td></td>
     <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
-
 
 ## Interests  
 
