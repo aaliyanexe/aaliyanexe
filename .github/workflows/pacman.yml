@@ -2,17 +2,32 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
+    - cron: '0 0 * * *'  # Runs daily
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     permissions:
-      contents: write
+      contents: write  # Needed to push to output branch
 
     steps:
-      - name: Run Pac-Man Contribution Generator
-        uses: abozanona/pacman-contribution-graph@main
+      - uses: actions/checkout@v4
         with:
-          github_user_name: aaliyanexe
+          fetch-depth: 0  # Required for contribution graph
+
+      - name: Generate Pac-Man graph
+        uses: yonnyz/pacman-contribution-graph@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit files
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git checkout --orphan output
+          git reset
+          git add pacman-contribution-graph.svg pacman-contribution-graph-dark.svg
+          git commit -m "Generate Pac-Man Contribution Graph"
+          git push -f origin output
