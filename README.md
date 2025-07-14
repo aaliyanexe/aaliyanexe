@@ -94,6 +94,13 @@ I build with intention — combining creativity and control.
     <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=5e7d1f&style=flat-square" />
 </div>
 
+## 🥇 My Pac‑Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaliyanexe/aaliyanexe/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaliyanexe/aaliyanexe/output/pacman-contribution-graph.svg">
+  <img alt="Pac‑Man Contribution Graph" src="https://raw.githubusercontent.com/aaliyanexe/aaliyanexe/output/pacman-contribution-graph.svg" />
+</picture>
 
 
 
