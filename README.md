@@ -1,6 +1,9 @@
 # 👨‍🚀 Ahmed Aaliyan – Front-End Developer
 
 Pixels, performance, and pure magic — shaping experiences users feel but can’t define.
+
+![shooting star](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpvMnh1dm9rdXJhMmp3a3VyNzFlMHFtbzN3azlvYWVpc3FxYWxybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TZf4ZyXb0lXXi/giphy.gif)
+
 ---
 
 ## 👋 About Me
