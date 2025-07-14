@@ -51,7 +51,7 @@ Building clean, efficient UI with a passion for continuous learning.
       <img src="" alt="Git" height="80" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="85" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="95" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmd1amR2NzRldjNjbTZqY2JiOTVpMjFlMjk5YjIwMzFmZTFsM3d4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7hySyjrTYYLSorToiT/giphy.gif" alt="React Query" height="60" />
@@ -60,7 +60,7 @@ Building clean, efficient UI with a passion for continuous learning.
       <img src="" alt="Zod" height="80" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="REST API" height="80" />
+      <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="REST API" height="95" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYybTQ3aXJwaG5kNnUwdW14anJ1d3N5Y2tpbW00OTJwcmMwdWtqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b3lpIxZ56rh2BcYfha/giphy.gif" alt="Firebase" height="80" />
