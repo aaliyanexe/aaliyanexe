@@ -1,4 +1,5 @@
-# 👨‍🚀 Ahmed Aaliyan – Front-End Developer
+# 👨‍🚀 Ahmed Aaliyan – Front-End Developer  
+🧭 probably in my own... space 🌌
 
 <h3 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=c5f566&center=false&vCenter=true&width=800&lines=Design+is+the+language.+Emotion+is+the+goal.;Focused+on+the+1%25+that+changes+everything.;Built+to+feel+right,+not+just+look+right.;Tools+are+temporary.+Experience+is+lasting." alt="Typewriter Tagline" />
@@ -8,7 +9,7 @@
 
 ## 👋 About Me
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWh4bHU5ZXVsOGp2Mnlndm94MGhreXRxY3ZqNXIxdGZuMjFpcHI2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gS4s9uJ6iVCJL1jDru/giphy.gif" alt="Dev GIF" height="250" width="270" style="border-radius: 12px;" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWh4bHU5ZXVsOGp2Mnlndm94MGhreXRxY3ZqNXIxdGZuMjFpcHI2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gS4s9uJ6iVCJL1jDru/giphy.gif" alt="Dev GIF" height="250" width="270" style="border-radius: 12px; margin-left: 16px;" />
 
 Focused on frontend development — mastering HTML, CSS, JavaScript, and expanding into:
 
@@ -17,12 +18,10 @@ Focused on frontend development — mastering HTML, CSS, JavaScript, and expandi
 - **Zustand**  
 - **React Query**  
 - **React**  
-- **Zod**
-- **Git&GitHub** 
+- **Zod**  
+- **Git & GitHub**  
 
 Building clean, efficient UI with a passion for continuous learning.
-
-
 
 ---
 
@@ -79,9 +78,10 @@ Building clean, efficient UI with a passion for continuous learning.
 
 ## 🌌 Interests
 
-🪐 Space for curiosity · ⚽ Football for teamwork · 🥋 MMA for discipline 
+🪐 **Space** fuels my curiosity  
+⚽ **Football** keeps me in sync with teamwork  
+🥋 **MMA** sharpens my focus and discipline  
 
-→ These shape how I build: with focus, flow, and purpose.
+I build with intention — combining creativity and control.
 
 ---
-
