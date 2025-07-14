@@ -1,8 +1,9 @@
 # 👨‍🚀 Ahmed Aaliyan – Front-End Developer
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FFFF&width=800&lines=Designing+invisible+interfaces+that+feel+intuitive%2C+behave+reliably%2C+and+speak+human+—+not+code." alt="Typewriter Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00ffff&width=750&lines=Designing+interfaces+that+feel+intuitive+and+behave+like+magic." alt="Typewriter effect" />
 </p>
+
 
 
 
