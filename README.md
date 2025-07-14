@@ -1,7 +1,9 @@
 # 👨‍🚀 Ahmed Aaliyan – Front-End Developer
+
 <h3 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=c5f566&center=false&vCenter=true&width=800&lines=Design+is+the+language.+Emotion+is+the+goal.;Focused+on+the+1%25+that+changes+everything.;Built+to+feel+right,+not+just+look+right.;Tools+are+temporary.+Experience+is+lasting." alt="Typewriter Tagline" />
 </h3>
+
 ---
 
 ## 👋 About Me
