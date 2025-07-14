@@ -1,20 +1,6 @@
-<!-- 🚀 START: Cosmic Header Snippet -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=00F7FF&random=false&width=600&lines=Designing+sleek+interfaces+with+frontend+precision+and+cosmic+ambition." alt="Typing SVG" />
-</p>
+# 👨‍🚀 Ahmed Aaliyan – Front-End Developer
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/ahmedexe" width="160" style="border-radius: 50%; box-shadow: 0 0 20px #00f7ff;" />
-</p>
-
-<pre align="center">
-   ___    _   _   ___  ___  ___   _   _   _   _   _   _   _ 
-  / _ \  | | | | / _ \| _ \| _ ) | | | | | | | | | | | | | |
- | (_) | | |_| || (_) |   /| _ \ | |_| |_| |_| |_| |_| |_| |
-  \___/   \___/  \___/|_|_\|___/  \___|___|___|___|___|___|_|
-              A H M E D   A A L I Y A N   //  S T A R L I N E
-</pre>
-
+Pixels, performance, and pure magic — shaping experiences users feel but can’t define.
 ---
 
 ## 👋 About Me
