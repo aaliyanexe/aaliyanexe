@@ -5,11 +5,10 @@
 </h3>
 
 ---
+
 ## 👋 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="70%">
+<img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Dev GIF" width="220" />
 
 Focused on frontend development — mastering HTML, CSS, JavaScript, and expanding into:
 
@@ -22,12 +21,7 @@ Focused on frontend development — mastering HTML, CSS, JavaScript, and expandi
 - **Git & GitHub**
 
 Building clean, efficient UI with a passion for continuous learning.
-    </td>
-    <td align="center" width="50%">
-      <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Dev GIF" height="400" width="200" style="border-radius: 12px;" />
-    </td>
-  </tr>
-</table>
+
 
 
 ---
