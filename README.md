@@ -1,8 +1,9 @@
 # 👨‍🚀 Ahmed Aaliyan – Front-End Developer
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=E2E8F0&vCenter=true&width=700&lines=Design+is+the+language.+Emotion+is+the+goal.;Focused+on+the+1%25+that+changes+everything.;Built+to+feel+right,+not+just+look+right.;Tools+are+temporary.+Experience+is+lasting." alt="Tagline"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3500&pause=1200&color=8BE9FD&center=false&vCenter=true&width=800&lines=Design+is+the+language.+Emotion+is+the+goal.;Focused+on+the+1%25+that+changes+everything.;Built+to+feel+right,+not+just+look+right.;Tools+are+temporary.+Experience+is+lasting." alt="Typewriter Tagline" />
 </h3>
+
 
 
 ---
