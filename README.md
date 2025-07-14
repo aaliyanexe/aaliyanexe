@@ -85,26 +85,33 @@ Building clean, efficient UI with a passion for continuous learning.
 I build with intention — combining creativity and control.
 
 ---
+<!-- GitHub Stats + Top Languages -->
 <p align="center">
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&theme=transparent&border_radius=12" 
-    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&theme=transparent&border_radius=12&hide_title=true&hide_rank=true&include_all_commits=true" 
+    width="49%" 
+    height="180"
     alt="GitHub Stats"
   />
-  
+
+  <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=transparent&border_radius=12" 
-    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=transparent&border_radius=12&hide_title=true" 
+    width="49%" 
+    height="180"
     alt="Top Languages"
   />
 </p>
 
+<!-- Profile Views -->
 <p align="left">
   <img 
     src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=c5f566&style=flat-square" 
     alt="Profile Views" 
   />
 </p>
+
 
 
 
