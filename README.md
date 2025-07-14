@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-<img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Dev GIF" height="420" width="340" style="border-radius: 12px;" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZlZGZndnN5NHJvbnJneXhpMmxvNnkyOTF0eHF0YXFwamM2Nm52dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9pgNsKeG3cwIufqcdN/giphy.gif" alt="Dev GIF" height="420" width="340" style="border-radius: 12px;" />
 
 Focused on frontend development — mastering HTML, CSS, JavaScript, and expanding into:
 
@@ -39,7 +39,7 @@ Building clean, efficient UI with a passion for continuous learning.
       <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" height="95" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVuaGJqcWphNTlsMTNmanpzZ3dyODZ5cndtbXg0MG1mZDFsdzQ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dvwChllrKozgBzskko/giphy.gif" alt="React" height="88" />
+      <img src="https://media.giphy.com/media/u1knlFcU5GNgg81Ixw/giphy.gif" alt="React" height="88" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFybDc2M3M5aDh2ZTliZ3ZwMWU4YWFvN29hN2oyYjRueG1vdjlpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/honZ5F0oKKxZfaELyi/giphy.gif" alt="Tailwind CSS" height="80" />
