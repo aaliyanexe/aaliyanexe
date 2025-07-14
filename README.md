@@ -24,7 +24,7 @@ Focused on frontend development — mastering HTML, CSS, JavaScript, and expandi
 Building clean, efficient UI with a passion for continuous learning.
     </td>
     <td align="center" width="30%">
-      <img src="https://jmp.sh/74XxBtSW" alt="Cool Dev GIF" height="180" style="border-radius: 12px;" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD0XOcpiGLHZCRvazbve5vRcWkP7SMa5gToA&s" alt="Dev GIF" height="180" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
