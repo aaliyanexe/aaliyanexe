@@ -8,17 +8,27 @@
 
 ## 👋 About Me
 
-Focused on frontend development — mastering HTML, CSS, JavaScript, and expanding into:
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+  
+  <div style="flex: 1; min-width: 280px;">
+    
+  Focused on frontend development — mastering HTML, CSS, JavaScript, and expanding into:
 
-- **Tailwind CSS**  
-- **TypeScript**  
-- **Zustand**  
-- **React Query**  
-- **React**  
-- **Zod**  
-- **Git & GitHub**
+  - **Tailwind CSS**  
+  - **TypeScript**  
+  - **Zustand**  
+  - **React Query**  
+  - **React**  
+  - **Zod**  
+  - **Git & GitHub**
 
-Building clean, efficient UI with a passion for continuous learning.
+  Building clean, efficient UI with a passion for continuous learning.
+
+  </div>
+
+  <img src="[<!-- YOUR GIF URL HERE -->](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxzb3VsZ2xkeWpkMW5lYjQycmVkNmF1bDh5OXQzZXJpbzlndHR1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTWI7n9KKSKwCjGyvv/giphy.gif)" alt="Cool Dev GIF" height="180" style="border-radius: 12px;" />
+
+</div>
 
 ---
 
