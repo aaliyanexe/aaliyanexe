@@ -1,14 +1,15 @@
 # 👨‍🚀 Ahmed Aaliyan – Front-End Developer
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=00FFFF&center=false&vCenter=true&width=800&lines=Design+is+the+language.+Emotion+is+the+goal.;Focused+on+the+1%25+that+changes+everything.;Built+to+feel+right,+not+just+look+right.;Tools+are+temporary.+Experience+is+lasting." alt="Typewriter Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=1200&color=c5f566&center=false&vCenter=true&width=800&lines=Design+is+the+language.+Emotion+is+the+goal.;Focused+on+the+1%25+that+changes+everything.;Built+to+feel+right,+not+just+look+right.;Tools+are+temporary.+Experience+is+lasting." alt="Typewriter Tagline" />
 </h3>
+
 
 ---
 
 ## 👋 About Me
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZlZGZndnN5NHJvbnJneXhpMmxvNnkyOTF0eHF0YXFwamM2Nm52dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9pgNsKeG3cwIufqcdN/giphy.gif" alt="Dev GIF" height="420" width="340" style="border-radius: 12px;" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWh4bHU5ZXVsOGp2Mnlndm94MGhreXRxY3ZqNXIxdGZuMjFpcHI2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gS4s9uJ6iVCJL1jDru/giphy.gif" alt="Dev GIF" height="420" width="340" style="border-radius: 12px;" />
 
 Focused on frontend development — mastering HTML, CSS, JavaScript, and expanding into:
 
