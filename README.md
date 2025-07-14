@@ -92,7 +92,7 @@ I build with intention — combining creativity and control.
 
   <img src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&theme=github_dark&title_color=c5f566&icon_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20Stats" width="48%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false" width="45%" />
 
   <br/><br/>
 
