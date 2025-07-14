@@ -1,15 +1,9 @@
 # 👨‍🚀 Ahmed Aaliyan – Front-End Developer
 
-Pixels, performance, and pure magic — shaping experiences users feel but can’t define.
-
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWpvMnh1dm9rdXJhMmp3a3VyNzFlMHFtbzN3azlvYWVpc3FxYWxybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TZf4ZyXb0lXXi/giphy.gif" 
-    alt="shooting star" 
-    width="800" 
-    height="250"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40E0D0&center=true&vCenter=true&width=435&lines=Pixels%2C+performance%2C+and+pure+magic;Shaping+experiences+users+feel+but+can't+define." alt="Typing SVG" />
 </p>
+
 
 ---
 
