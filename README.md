@@ -94,14 +94,6 @@ I build with intention — combining creativity and control.
     <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=5e7d1f&style=flat-square" />
 </div>
 
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/snake.svg" />
-  <img alt="snake gif" src="assets/snake.svg" />
-</picture>
-
-
 
 
 ---
