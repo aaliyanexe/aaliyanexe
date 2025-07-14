@@ -2,8 +2,8 @@
 
 <p align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6EE7B7&width=700&lines=Interfaces+aren’t+my+goal.+Clarity%2C+calm%2C+and+confidence+are.;Focused+on+the+1%25+that+changes+everything.;Built+to+feel+right%2C+not+just+look+right.;Tools+are+temporary.+Experience+is+lasting." 
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1400&color=8BE9FD&center=false&vCenter=true&width=800&lines=Design+is+the+language.+Emotion+is+the+goal.;Interfaces+aren’t+my+goal.+Clarity+and+calm+are.;Built+to+feel+right,+not+just+look+right.;Tools+are+temporary.+Experience+is+lasting."
+    alt="Cosmic Typewriter"
   />
 </p>
 
