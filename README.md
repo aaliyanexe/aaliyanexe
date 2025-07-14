@@ -1,8 +1,9 @@
 # 👨‍🚀 Ahmed Aaliyan – Front-End Developer
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=E2E8F0&vCenter=true&multiline=true&width=600&lines=Writing+code+that+lasts.+;Building+frontend+that+feels+right+—+not+just+looks+good.;Calm+focus%2C+clean+logic%2C+world-class+ambition." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9CA3AF&center=false&vCenter=true&width=720&lines=Writing+code+that+lasts.;Designing+frontend+that+feels+right%2C+not+just+looks+good.;Calm+focus%2C+clean+logic%2C+world-class+ambition." alt="Typing SVG" />
 </p>
+
 
 ---
 
