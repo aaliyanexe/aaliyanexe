@@ -79,7 +79,8 @@ Building clean, efficient UI with a passion for continuous learning.
 
 ## 🌌 Interests
 
-🪐 Space for curiosity · ⚽ Football for teamwork · 🥋 MMA for discipline  
+🪐 Space for curiosity · ⚽ Football for teamwork · 🥋 MMA for discipline 
+
 → These shape how I build: with focus, flow, and purpose.
 
 ---
