@@ -1,35 +1,30 @@
-name: Generate Pac-Man Contribution Graph
+name: 🐍 Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day
+    - cron: "0 0 * * *" # daily at midnight
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate Pac-Man graph
-        uses: lowlighter/pacman-graph@main
+      - uses: Platane/snk@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output_path: pacman.svg
-          color: yellow
-          background: 0b1a2d
-          resolution: 1.5
+          github_user_name: aaliyanexe
+          outputs: |
+            dist/snake.svg
 
-      - name: Upload SVG
+      - name: Commit and push snake.svg
         run: |
-          mkdir -p public
-          mv pacman.svg public/
-          git config --global user.name 'github-actions'
-          git config --global user.email 'actions@github.com'
-          git checkout --orphan output
-          git reset
-          mv public/* .
-          git add pacman.svg
-          git commit -m "Generate Pac-Man Contribution Graph"
-          git push -f origin output
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git fetch
+          git checkout main
+          mkdir -p assets
+          cp dist/snake.svg assets/
+          git add assets/snake.svg
+          git commit -m "Update Snake Contribution Graph"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
