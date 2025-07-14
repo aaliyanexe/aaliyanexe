@@ -78,9 +78,9 @@ Building clean, efficient UI with a passion for continuous learning.
 
 ## 🌌 Interests
 
-🪐 **Space** fuels my curiosity  
-⚽ **Football** keeps me in sync with teamwork  
-🥋 **MMA** sharpens my focus and discipline  
+-🪐 **Space** fuels my curiosity  
+-⚽ **Football** keeps me in sync with teamwork  
+-🥋 **MMA** sharpens my focus and discipline  
 
 I build with intention — combining creativity and control.
 
