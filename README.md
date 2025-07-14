@@ -79,13 +79,8 @@ Building clean, efficient UI with a passion for continuous learning.
 
 ## 🌌 Interests
 
-Outside of development, I’m passionate about:
-
-- 🪐 Space exploration
-- ⚽ Football
-- 🥋 Mixed Martial Arts (MMA)
-
-These passions fuel my creativity, discipline, and drive to keep learning and growing.
+🪐 Space for curiosity · ⚽ Football for teamwork · 🥋 MMA for discipline  
+→ These shape how I build: with focus, flow, and purpose.
 
 ---
 
