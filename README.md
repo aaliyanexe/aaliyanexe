@@ -2,10 +2,11 @@
 
 <p align="left">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1400&color=8BE9FD&center=false&vCenter=true&width=800&lines=Design+is+the+language.+Emotion+is+the+goal.;Interfaces+aren’t+my+goal.+Clarity+and+calm+are.;Built+to+feel+right,+not+just+look+right.;Tools+are+temporary.+Experience+is+lasting."
-    alt="Cosmic Typewriter"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=8BE9FD&width=700&lines=Clarity%2C+calm%2C+confidence.;Crafted+to+feel+right.;The+1%+that+changes+everything.;Tools+fade.+Experience+stays."
+    alt="Typing Effect"
   />
 </p>
+
 
 ---
 
