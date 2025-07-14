@@ -2,32 +2,34 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily
+    - cron: '0 0 * * *'  # Runs every day
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write  # Needed to push to output branch
-
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # Required for contribution graph
 
       - name: Generate Pac-Man graph
-        uses: yonnyz/pacman-contribution-graph@v1
+        uses: lowlighter/pacman-graph@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: pacman.svg
+          color: yellow
+          background: 0b1a2d
+          resolution: 1.5
 
-      - name: Commit files
+      - name: Upload SVG
         run: |
+          mkdir -p public
+          mv pacman.svg public/
           git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
+          git config --global user.email 'actions@github.com'
           git checkout --orphan output
           git reset
-          git add pacman-contribution-graph.svg pacman-contribution-graph-dark.svg
+          mv public/* .
+          git add pacman.svg
           git commit -m "Generate Pac-Man Contribution Graph"
           git push -f origin output
