@@ -43,7 +43,7 @@ Building clean, efficient UI with a passion for continuous learning.
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnV6NTQ4cDljOHdhN3NuZDdoNTE4bWx4OG96NDdjZGEwbnN1Y283byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wJ3soNxg9bETCd0f2J/giphy.gif" alt="TypeScript" height="80" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://jmp.sh/8tnlKSzX" alt="Zustand" height="80" />
+      <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand" height="80" />
     </td>
   </tr>
   <tr>
