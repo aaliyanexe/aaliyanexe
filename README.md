@@ -25,7 +25,7 @@ Building clean, efficient UI with a passion for continuous learning.
 <table>
   <tr>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFpODF0ZDNjMDNidWJnOG85Yjhnd2MzcDh4ZmZiOG05NW93MnJuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Jf7gw3il1I4wm95apY/giphy.gif" alt="HTML" height="80" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh1cmpwMnd2Y2lxeGxpNDR6MGtjejVoMWUybHUzNTg2c2NtY210NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mfjpjOi8HXDteWlTbY/giphy.gif" alt="HTML" height="80" />
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVwbTdsODNzM3h4a2s5NzA2N2x1cW5rY2w0Y2NyMmk1MXRycTJxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgpN5K7VTbIfUhk8Od/giphy.gif" alt="CSS" height="60" />
