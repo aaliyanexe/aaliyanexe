@@ -2,7 +2,7 @@
 
 <p align="left">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6EE7B7&width=700&lines=Interfaces+aren’t+my+goal.+Clarity%2C+calm%2C+and+confidence+are.;Focused+on+the+1%25+that+changes+everything.;Built+to+feel+right%2C+not+just+look+right.;Tools+are+temporary.+Experience+is+lasting." 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6EE7B7&width=700&lines=Interfaces+aren’t+my+goal.+Clarity%2C+calm%2C+and+confidence+are.;Focused+on+the+1%25+that+changes+everything.;Built+to+feel+right%2C+not+just+look+right.;Tools+are+temporary.+Experience+is+lasting." 
     alt="Typing SVG"
   />
 </p>
