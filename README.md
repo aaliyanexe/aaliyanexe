@@ -1,6 +1,6 @@
 # 👨‍🚀 Ahmed Aaliyan – Front-End Developer
 
-
+Pixels, performance, and pure magic — shaping experiences users feel but can’t define.
 
 ---
 
