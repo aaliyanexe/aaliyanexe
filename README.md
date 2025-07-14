@@ -18,7 +18,6 @@ Focused on frontend development — mastering HTML, CSS, JavaScript, and expandi
 - **React Query**  
 - **React**  
 - **Zod**  
-- **Git & GitHub**
 
 Building clean, efficient UI with a passion for continuous learning.
 
