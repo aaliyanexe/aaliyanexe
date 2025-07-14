@@ -26,7 +26,7 @@
 
   </div>
 
-  <img src="[<!-- YOUR GIF URL HERE -->](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxzb3VsZ2xkeWpkMW5lYjQycmVkNmF1bDh5OXQzZXJpbzlndHR1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTWI7n9KKSKwCjGyvv/giphy.gif)" alt="Cool Dev GIF" height="180" style="border-radius: 12px;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxzb3VsZ2xkeWpkMW5lYjQycmVkNmF1bDh5OXQzZXJpbzlndHR1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTWI7n9KKSKwCjGyvv/giphy.gif" alt="Cool Dev GIF" height="180" style="border-radius: 12px;" />
 
 </div>
 
