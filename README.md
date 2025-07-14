@@ -85,20 +85,27 @@ Building clean, efficient UI with a passion for continuous learning.
 I build with intention — combining creativity and control.
 
 ---
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&theme=transparent&border_radius=12" 
+    width="48%" 
+    alt="GitHub Stats"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=transparent&border_radius=12" 
+    width="48%" 
+    alt="Top Languages"
+  />
+</p>
 
-## 📊 GitHub Stats
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=c5f566&style=flat-square" 
+    alt="Profile Views" 
+  />
+</p>
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&theme=github_dark&title_color=c5f566&icon_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20Stats" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false" width="48%" />
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=c5f566&style=flat-square" />
-
-</div>
 
 
 
