@@ -86,25 +86,20 @@ I build with intention — combining creativity and control.
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&theme=github_dark&title_color=c5f566&icon_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20Stats" width="48%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false" width="48%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aaliyanexe&theme=github-dark&currStreakLabel=c5f566&fire=c5f566&ring=c5f566&sideNums=ffffff&sideLabels=c5f566&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <br/><br/>
 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aaliyanexe&theme=github-compact&area=true&hide_border=false&color=c5f566&line=c5f566&point=c5f566" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=c5f566&style=flat-square" />
 
 </div>
 
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=c5f566&style=flat-square" alt="Profile Views" />
-</p>
 
 
 
