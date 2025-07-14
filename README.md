@@ -89,16 +89,14 @@ I build with intention — combining creativity and control.
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaliyanexe&style=flat-square&color=c5f566" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=c5f566&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&theme=github_dark&custom_title=Aaliyan's%20GitHub%20Stats&title_color=c5f566&icon_color=c5f566&text_color=ffffff&border_color=2d3748" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=c5f566&text_color=ffffff&border_color=2d3748" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&theme=github_dark&title_color=c5f566&icon_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20GitHub%20Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aaliyanexe&theme=github-dark&currStreakLabel=c5f566&fire=c5f566&ring=c5f566&sideNums=ffffff&sideLabels=c5f566&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false" height="180" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aaliyanexe&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=c5f566&ring=c5f566&fire=c5f566&sideLabels=c5f566&sideNums=ffffff"/>
-</p>
 
 ---
