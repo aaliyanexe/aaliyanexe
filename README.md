@@ -137,16 +137,21 @@ I build with intention — combining creativity and control.
 
 
 ```txt
-   ___        _     _           _                   _           
-  / _ \ _   _| |__ | |__   __ _| |_   _ __ ___   __| | ___ _ __ 
- | | | | | | | '_ \| '_ \ / _` | __| | '_ ` _ \ / _` |/ _ \ '__|
- | |_| | |_| | |_) | |_) | (_| | |_  | | | | | | (_| |  __/ |   
-  \__\_\\__,_|_.__/|_.__/ \__,_|\__| |_| |_| |_|\__,_|\___|_|   
 
-       Ahmed Aaliyan — @aaliyanexe
-        ➤ Commit: No limits. Just output.
-        ⚙️ Mode: Developer | Designer | Debugger
-        🛰️ Ping: alive @ localhost
-        🚧 Status: Building the future, one div at a time.
-        📡 Uplink: 100% signal | 0% nonsense
+ ______  __                             __      ______            ___                                    
+/\  _  \/\ \                           /\ \    /\  _  \          /\_ \    __                             
+\ \ \L\ \ \ \___     ___ ___      __   \_\ \   \ \ \L\ \     __  \//\ \  /\_\  __  __     __      ___    
+ \ \  __ \ \  _ `\ /' __` __`\  /'__`\ /'_` \   \ \  __ \  /'__`\  \ \ \ \/\ \/\ \/\ \  /'__`\  /' _ `\  
+  \ \ \/\ \ \ \ \ \/\ \/\ \/\ \/\  __//\ \L\ \   \ \ \/\ \/\ \L\.\_ \_\ \_\ \ \ \ \_\ \/\ \L\.\_/\ \/\ \ 
+   \ \_\ \_\ \_\ \_\ \_\ \_\ \_\ \____\ \___,_\   \ \_\ \_\ \__/.\_\/\____\\ \_\/`____ \ \__/.\_\ \_\ \_\
+    \/_/\/_/\/_/\/_/\/_/\/_/\/_/\/____/\/__,_ /    \/_/\/_/\/__/\/_/\/____/ \/_/`/___/> \/__/\/_/\/_/\/_/
+                                                                                   /\___/                
+                                                                                   \/__/                             
+
+   Ahmed Aaliyan — @aaliyanexe
+     ➤ Commit: No limits. Just output.
+    ⚙️ Mode: Developer | Designer | Debugger
+    🛰️ Ping: alive @ localhost
+    🚧 Status: Building the future, one div at a time.
+    📡 Uplink: 100% signal | 0% nonsense
 
