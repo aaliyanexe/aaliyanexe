@@ -111,16 +111,16 @@ I build with intention — combining creativity and control.
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://x.com/AaliyanDevX" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" title="Twitter/X" />
+  <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="40" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ahmedaaliyan.dev@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Gmail" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKJsjbnKDB6PLFK4GU8jjv0zoIR4WB6AAIA&s" width="40" title="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn" />
+   <a href="https://x.com/AaliyanDevX" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" width="40" title="Twitter/X" />
   </a>
   &nbsp;&nbsp;
   <a href="https://dev.to/aaliyanexe" target="_blank">
