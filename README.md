@@ -4,7 +4,7 @@
   <img src="https://i.postimg.cc/kGqrt2jM/carbon-4-1.png" alt="Terminal Banner" style="max-width: 100%; height: auto;" width="900" />
 </p>
 
-<hr style="border: none; height: 1px; background-color: #333; opacity: 0.3; margin: 24px 0;" />
+<hr style="border: none; height: 1px; background-color: #999; opacity: 0.1; margin: 16px 0;" />
 
 <h3 align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=c5f566&center=false&vCenter=true&width=800&lines=Design+is+the+language.+Emotion+is+the+goal.;Focused+on+the+1%25+that+changes+everything.;Built+to+feel+right,+not+just+look+right.;Tools+are+temporary.+Experience+is+lasting." alt="Typewriter Tagline" />
