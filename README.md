@@ -100,11 +100,16 @@ I build with intention — combining creativity and control.
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyanexe&theme=github-dark&ring=c5f566&fire=c5f566&currStreakNum=c5f566&sideNums=c5f566&sideLabels=ffffff&dates=ffffff&stroke=30363d" width="50%" />
 
-  # Profile Views
+</div>
 
+### 🔍Profile Views
+
+<div align="center">
+  
   <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=c5f566&style=flat-square" />
 
 </div>
+
 
 ---
 
@@ -113,13 +118,21 @@ I build with intention — combining creativity and control.
 ---
 
 <p align="center">
-  <a href="#"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="30" title="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="50" title="LinkedIn" />
+  </a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="30" title="Gmail" /></a>
+  <a href="mailto:ahmedaaliyan.dev@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=37246&format=png" width="50" title="Gmail" />
+  </a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="30" title="X / Twitter" /></a>
+   <a href="https://x.com/AaliyanDevX" target="_blank">
+    <img src="https://img.icons8.com/ios11/512/4D4D4D/twitterx--v2.png" width="50" title="Twitter/X" />
+  </a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://img.icons8.com/ios-filled/50/ffffff/dev.png" width="30" title="Dev.to" /></a>
+  <a href="https://dev.to/aaliyanexe" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=n98knU41v5Aq&format=png" width="50" title="Dev.to" />
+  </a>
 </p>
 
 
@@ -130,6 +143,10 @@ I build with intention — combining creativity and control.
  | |_| | |_| | |_) | |_) | (_| | |_  | | | | | | (_| |  __/ |   
   \__\_\\__,_|_.__/|_.__/ \__,_|\__| |_| |_| |_|\__,_|\___|_|   
 
-        Ahmed Aaliyan — @aaliyanexe
+       Ahmed Aaliyan — @aaliyanexe
         ➤ Commit: No limits. Just output.
+        ⚙️ Mode: Developer | Designer | Debugger
+        🛰️ Ping: alive @ localhost
+        🚧 Status: Building the future, one div at a time.
+        📡 Uplink: 100% signal | 0% nonsense
 
