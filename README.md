@@ -112,19 +112,19 @@ I build with intention — combining creativity and control.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="40" title="LinkedIn" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="50" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ahmedaaliyan.dev@gmail.com" target="_blank">
-    <img src="https://thumbs.dreamstime.com/b/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.jpg" width="40" title="Gmail" />
+    <img src="https://thumbs.dreamstime.com/b/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.jpg" width="50" title="Gmail" />
   </a>
   &nbsp;&nbsp;
    <a href="https://x.com/AaliyanDevX" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" width="40" title="Twitter/X" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" width="50" title="Twitter/X" />
   </a>
   &nbsp;&nbsp;
   <a href="https://dev.to/aaliyanexe" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6K0at0isJpj-3SbFLWmjREDEI3zDdgbFGuA&s" width="40" title="Dev.to" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6K0at0isJpj-3SbFLWmjREDEI3zDdgbFGuA&s" width="50" title="Dev.to" />
   </a>
 </p>
 
