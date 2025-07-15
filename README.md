@@ -137,12 +137,5 @@ I build with intention — combining creativity and control.
   \__\_\\__,_|_.__/|_.__/ \__,_|\__| |_| |_| |_|\__,_|\___|_|   
 
         Ahmed Aaliyan — @aaliyanexe
-        📧 aaliyan.dev@gmail.com
-        🔗 github.com/aaliyanexe
-
-        “Design is the language. Emotion is the goal.”
         ➤ Commit: No limits. Just output.
 
-
-
----
