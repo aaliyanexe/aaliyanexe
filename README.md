@@ -87,11 +87,11 @@ Building clean, efficient UI with a passion for continuous learning.
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&theme=github_dark&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&theme=github_dark&title_color=f97316&icon_color=f97316&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20Stats" width="48%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=facc15&text_color=ffffff&border_color=30363d&hide_border=false" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=f97316&text_color=ffffff&border_color=30363d&hide_border=false" width="43%" />
 
-  <img src="https://github-readme-streak-stats-91to.vercel.app?user=aaliyanexe&theme=github-dark&ring=facc15&fire=facc15&currStreakNum=facc15&sideNums=facc15&sideLabels=ffffff&dates=ffffff&stroke=30363d" width="50%" />
+  <img src="https://github-readme-streak-stats-91to.vercel.app?user=aaliyanexe&theme=github-dark&ring=f97316&fire=f97316&currStreakNum=f97316&sideNums=f97316&sideLabels=ffffff&dates=ffffff&stroke=30363d" width="50%" />
 
 </div>
 
@@ -99,9 +99,10 @@ Building clean, efficient UI with a passion for continuous learning.
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=facc15&style=plastic" />
+  <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=f97316&style=flat-square" />
 
 </div>
+
 
 ---
 
