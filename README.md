@@ -100,12 +100,12 @@ I build with intention — combining creativity and control.
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false" width="43%" />
 
-  <br/>
+  <br/><br/>
 
   <!-- GitHub Streak Stats (centered) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyanexe&theme=github-dark&ring=c5f566&fire=c5f566&currStreakNum=c5f566&sideNums=c5f566&sideLabels=ffffff&dates=ffffff&stroke=30363d" width="50%" />
 
-  <br/>
+  <br/><br/>
 
   <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=c5f566&style=flat-square" />
 
