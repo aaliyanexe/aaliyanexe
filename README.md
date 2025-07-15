@@ -1,4 +1,4 @@
-# 👨‍🚀 Ahmed Aaliyan – Front-End Developer  
+<img width="512" height="512" alt="twitterx" src="https://github.com/user-attachments/assets/7346ef1c-0879-4e60-8cb9-e1bf1cb7660d" /># 👨‍🚀 Ahmed Aaliyan – Front-End Developer  
 
 <p align="center">
   <img src="https://i.postimg.cc/kGqrt2jM/carbon-4-1.png" alt="Terminal Banner" style="max-width: 100%; height: auto;" width="900" />
@@ -112,31 +112,22 @@ I build with intention — combining creativity and control.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" width="50" title="LinkedIn" />
+    <img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="50" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ahmedaaliyan.dev@gmail.com" target="_blank">
-    <img src="https://thumbs.dreamstime.com/b/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.jpg" width="50" title="Gmail" />
+    <img src="https://img.icons8.com/?size=512&id=37246&format=png" width="50" title="Gmail" />
   </a>
   &nbsp;&nbsp;
    <a href="https://x.com/AaliyanDevX" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" width="50" title="Twitter/X" />
+    <img src="https://img.icons8.com/ios11/512/twitterx.png" width="50" title="Twitter/X" />
   </a>
   &nbsp;&nbsp;
   <a href="https://dev.to/aaliyanexe" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6K0at0isJpj-3SbFLWmjREDEI3zDdgbFGuA&s" width="50" title="Dev.to" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_w8DKxD2-57-bnWTUoDohLPZ7OFugQoZPbIpC-b4jZUFZhpjNGgurAv744pq-z3VUYpE&usqp=CAU" width="50" title="Dev.to" />
   </a>
 </p>
 
-   ___        _     _           _                   _           
-  / _ \ _   _| |__ | |__   __ _| |_   _ __ ___   __| | ___ _ __ 
- | | | | | | | '_ \| '_ \ / _` | __| | '_ ` _ \ / _` |/ _ \ '__|
- | |_| | |_| | |_) | |_) | (_| | |_  | | | | | | (_| |  __/ |   
-  \__\_\\__,_|_.__/|_.__/ \__,_|\__| |_| |_| |_|\__,_|\___|_|   
-        Ahmed Aaliyan — @aaliyanexe
-        📧 aaliyan.dev@gmail.com
-        🔗 github.com/aaliyanexe
-        “Design is the language. Emotion is the goal.”
-        ➤ Commit: No limits. Just output.
+
 
 ---
