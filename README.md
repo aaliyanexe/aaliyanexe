@@ -116,7 +116,7 @@ I build with intention — combining creativity and control.
   </a>
   &nbsp;&nbsp;
   <a href="mailto:ahmedaaliyan.dev@gmail.com" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKJsjbnKDB6PLFK4GU8jjv0zoIR4WB6AAIA&s" width="40" title="Gmail" />
+    <img src="https://thumbs.dreamstime.com/b/%D0%BF%D0%B5%D1%87%D0%B0%D1%82%D1%8C-201003176.jpg" width="40" title="Gmail" />
   </a>
   &nbsp;&nbsp;
    <a href="https://x.com/AaliyanDevX" target="_blank">
