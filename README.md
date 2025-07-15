@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdzdWZ0ZXl0NXZjMGhpOGwzOWZmajY3YjUwZXhjNzNrZ3M0dmcyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RhyGUlbpe0AdbeGrqX/giphy.gif" alt="Dev GIF" height="420" width="350" style="border-radius: 12px; margin-left: 16px;" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdzdWZ0ZXl0NXZjMGhpOGwzOWZmajY3YjUwZXhjNzNrZ3M0dmcyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RhyGUlbpe0AdbeGrqX/giphy.gif" alt="Dev GIF" height="300" width="300" style="border-radius: 12px; margin-left: 16px;" />
 
 Focused on frontend development — mastering HTML, CSS, JavaScript, and expanding into:
 
