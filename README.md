@@ -93,7 +93,7 @@ Building clean, efficient UI with a passion for continuous learning.
 
 </div>
 
----
+<br/>
 
 <div align="center">
   
