@@ -84,10 +84,6 @@ Building clean, efficient UI with a passion for continuous learning.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-## 📊 GitHub Stats
-
   <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&theme=github_dark&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20Stats" width="48%" />
