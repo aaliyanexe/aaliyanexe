@@ -102,7 +102,9 @@ I build with intention — combining creativity and control.
 
 </div>
 
-### 🔍Profile Views
+---
+
+## 🔍Profile Views
 
 <div align="center">
   
@@ -110,12 +112,9 @@ I build with intention — combining creativity and control.
 
 </div>
 
-
 ---
 
-### 🤝 Connect with Me
-
----
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank">
