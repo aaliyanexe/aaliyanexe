@@ -93,14 +93,24 @@ I build with intention — combining creativity and control.
 
 ## 📊 GitHub Stats
 
-<div style="text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&theme=github_dark&title_color=c5f566&icon_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20Stats" width="48%" style="margin-right: 1%; margin-bottom: 20px; display: inline-block; vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false" width="43%" style="margin-bottom: 20px; display: inline-block; vertical-align: top;" />
+<div align="center">
+  
+  <!-- GitHub Stats and Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&theme=github_dark&title_color=c5f566&icon_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20Stats" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false" width="43%" />
+
+  <br/><br/>
+
+  <!-- GitHub Streak Stats (centered) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyanexe&theme=github-dark&ring=c5f566&fire=c5f566&currStreakNum=c5f566&sideNums=c5f566&sideLabels=ffffff&dates=ffffff&stroke=30363d" width="95%" />
+
+  <br/><br/>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=c5f566&style=flat-square" />
+
 </div>
 
-<div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyanexe&theme=tokyonight" />
-  <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=5e7d1f&style=flat-square" />
-</div>
 
 ---
