@@ -128,6 +128,6 @@ I build with intention — combining creativity and control.
   </a>
 </p>
 
-
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=C5F566&center=true&vCenter=true&width=800&lines=echo+'Thanks+for+visiting!';echo+'Let’s+code+something+awesome+together.';exit+0" alt="Terminal Typing Animation" /> </p> <p align="center" style="background:#0b1a2d; color:#c5f566; padding:20px; border-radius:10px; font-family:'Fira Code', monospace; font-size:18px; max-width:800px; margin:auto;"> <span style="color:#999;">➜</span> <span style="color:#c5f566;"> ~ </span> echo "Mission Accomplished. See you in the next commit!" </p>
 
 ---
