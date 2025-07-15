@@ -90,7 +90,7 @@ Building clean, efficient UI with a passion for continuous learning.
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false" width="43%" />
 
-  <img src="https://github-readme-streak-stats-91to.vercel.app?user=aaliyanexe&theme=microsoft-dark&ring=c5f566&fire=c5f566&currStreakNum=c5f566&sideNums=c5f566&sideLabels=ffffff&dates=ffffff&stroke=30363d" width="50%" />
+  <img src="https://github-readme-streak-stats-91to.vercel.app?user=aaliyanexe&theme=github-dark&ring=c5f566&fire=c5f566&currStreakNum=c5f566&sideNums=c5f566&sideLabels=ffffff&dates=ffffff&stroke=30363d" width="50%"/>
 
  
 </div>
