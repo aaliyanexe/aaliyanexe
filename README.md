@@ -1,4 +1,4 @@
-<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/3ea210e9-c98b-438d-9488-f5d2a5105a3b" /># 👨‍🚀 Ahmed Aaliyan – Front-End Developer  
+# 👨‍🚀 Ahmed Aaliyan – Front-End Developer  
 
 <p align="center">
   <img src="https://i.postimg.cc/kGqrt2jM/carbon-4-1.png" alt="Terminal Banner" style="max-width: 100%; height: auto;" width="900" />
