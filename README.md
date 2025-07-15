@@ -105,9 +105,9 @@ Building clean, efficient UI with a passion for continuous learning.
 
 ## 🌌 Interests
 
-- **🪐 **Space** fuels my curiosity**
-- **⚽ **Football** keeps me in sync with teamwork**  
-- **🥋 **MMA** sharpens my focus and discipline**  
+- 🪐 **Space** fuels my curiosity  
+- ⚽ **Football** keeps me in sync with teamwork  
+- 🥋 **MMA** sharpens my focus and discipline  
 
 I build with intention — combining creativity and control.
 
@@ -115,23 +115,26 @@ I build with intention — combining creativity and control.
 
 ## 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="50" title="LinkedIn" />
+<p align="center" style="gap: 24px; display: flex; justify-content: center; align-items: center;">
+
+  <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="50" alt="LinkedIn icon" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ahmedaaliyan.dev@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=37246&format=png" width="50" title="Gmail" />
+
+  <a href="mailto:ahmedaaliyan.dev@gmail.com" target="_blank" title="Email">
+    <img src="https://img.icons8.com/?size=512&id=37246&format=png" width="50" alt="Gmail icon" />
   </a>
-  &nbsp;&nbsp;
-   <a href="https://x.com/AaliyanDevX" target="_blank">
-    <img src="https://img.icons8.com/ios11/512/4D4D4D/twitterx--v2.png" width="50" title="Twitter/X" />
+
+  <a href="https://x.com/AaliyanDevX" target="_blank" title="Twitter/X">
+    <img src="https://img.icons8.com/ios11/512/4D4D4D/twitterx--v2.png" width="50" alt="Twitter/X icon" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://dev.to/aaliyanexe" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=n98knU41v5Aq&format=png" width="50" title="Dev.to" />
+
+  <a href="https://dev.to/aaliyanexe" target="_blank" title="Dev.to">
+    <img src="https://img.icons8.com/?size=512&id=n98knU41v5Aq&format=png" width="50" alt="Dev.to icon" />
   </a>
+
 </p>
+
 
 
 ```txt
