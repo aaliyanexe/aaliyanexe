@@ -106,6 +106,25 @@ I build with intention — combining creativity and control.
 
 </div>
 
-
-
 ---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://x.com/AaliyanDevX" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" title="Twitter/X" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ahmedaaliyan.dev@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" title="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/aaliyanexe" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg" width="40" title="Dev.to" />
+  </a>
+</p>
+
