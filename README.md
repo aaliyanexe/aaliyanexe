@@ -1,4 +1,4 @@
-# 👨‍🚀 Ahmed Aaliyan – Front-End Developer  
+<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/3ea210e9-c98b-438d-9488-f5d2a5105a3b" /># 👨‍🚀 Ahmed Aaliyan – Front-End Developer  
 
 <p align="center">
   <img src="https://i.postimg.cc/kGqrt2jM/carbon-4-1.png" alt="Terminal Banner" style="max-width: 100%; height: auto;" width="900" />
@@ -120,11 +120,11 @@ I build with intention — combining creativity and control.
   </a>
   &nbsp;&nbsp;
    <a href="https://x.com/AaliyanDevX" target="_blank">
-    <img src="https://img.icons8.com/ios11/512/twitterx.png" width="50" title="Twitter/X" />
+    <img src="https://img.icons8.com/ios11/512/4D4D4D/twitterx--v2.png" width="50" title="Twitter/X" />
   </a>
   &nbsp;&nbsp;
   <a href="https://dev.to/aaliyanexe" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_w8DKxD2-57-bnWTUoDohLPZ7OFugQoZPbIpC-b4jZUFZhpjNGgurAv744pq-z3VUYpE&usqp=CAU" width="50" title="Dev.to" />
+    <img src="https://img.icons8.com/?size=512&id=n98knU41v5Aq&format=png" width="50" title="Dev.to" />
   </a>
 </p>
 
