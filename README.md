@@ -1,7 +1,7 @@
 # 👨‍🚀 Ahmed Aaliyan – Front-End Developer  
 
 <p align="center">
-  <img src="https://i.postimg.cc/GhgNbg1m/carbon-3-1.png" alt="Terminal Banner" style="max-width: 100%; height: auto;" width="900" />
+  <img src="https://i.postimg.cc/kGqrt2jM/carbon-4-1.png" alt="Terminal Banner" style="max-width: 100%; height: auto;" width="900" />
 </p>
 
 
@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWh4bHU5ZXVsOGp2Mnlndm94MGhreXRxY3ZqNXIxdGZuMjFpcHI2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gS4s9uJ6iVCJL1jDru/giphy.gif" alt="Dev GIF" height="275" width="320" style="border-radius: 12px; margin-left: 16px;" />
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWh4bHU5ZXVsOGp2Mnlndm94MGhreXRxY3ZqNXIxdGZuMjFpcHI2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gS4s9uJ6iVCJL1jDru/giphy.gif" alt="Dev GIF" height="275" width="290" style="border-radius: 12px; margin-left: 16px;" />
 
 Focused on frontend development — mastering HTML, CSS, JavaScript, and expanding into:
 
