@@ -1,7 +1,7 @@
 # 👨‍🚀 Ahmed Aaliyan – Front-End Developer  
 
 <p align="center">
-  <img src="https://i.ibb.co/YOUR_IMAGE_LINK.png" alt="Terminal Banner" width="100%" />
+  <img src="https://i.ibb.co/yFqjHnSk/carbon-4.png" alt="Terminal Banner" width="100%" />
 </p>
 
 
