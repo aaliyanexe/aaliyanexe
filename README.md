@@ -103,9 +103,9 @@ I build with intention — combining creativity and control.
   <br/>
 
   <!-- GitHub Streak Stats (centered) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyanexe&theme=github-dark&ring=c5f566&fire=c5f566&currStreakNum=c5f566&sideNums=c5f566&sideLabels=ffffff&dates=ffffff&stroke=30363d" width="75%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyanexe&theme=github-dark&ring=c5f566&fire=c5f566&currStreakNum=c5f566&sideNums=c5f566&sideLabels=ffffff&dates=ffffff&stroke=30363d" width="50%" />
 
-  <br/><br/>
+  <br/>
 
   <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=c5f566&style=flat-square" />
 
