@@ -128,9 +128,20 @@ I build with intention — combining creativity and control.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=C5F566&center=true&vCenter=true&width=800&lines=echo+%22Thanks+for+visiting+🚀%22;echo+%22Let%E2%80%99s+code+something+awesome+together!%22;exit+0" alt="Terminal Typing Animation" />
-</p>
+
+```txt
+   ___        _     _           _                   _           
+  / _ \ _   _| |__ | |__   __ _| |_   _ __ ___   __| | ___ _ __ 
+ | | | | | | | '_ \| '_ \ / _` | __| | '_ ` _ \ / _` |/ _ \ '__|
+ | |_| | |_| | |_) | |_) | (_| | |_  | | | | | | (_| |  __/ |   
+  \__\_\\__,_|_.__/|_.__/ \__,_|\__| |_| |_| |_|\__,_|\___|_|   
+
+        Ahmed Aaliyan — @aaliyanexe
+        📧 aaliyan.dev@gmail.com
+        🔗 github.com/aaliyanexe
+
+        “Design is the language. Emotion is the goal.”
+        ➤ Commit: No limits. Just output.
 
 
 
