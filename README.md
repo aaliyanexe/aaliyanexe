@@ -7,7 +7,7 @@
 <hr style="border: none; height: 1px; background-color: #999; opacity: 0.1; margin: 16px 0;" />
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=c5f566&vCenter=true&width=800&lines=Pixel-perfect+isn%E2%80%99t+enough+%E2%80%94+it+must+feel+right.;Crafting+interfaces+that+move+with+meaning.;Every+line+of+code+serves+a+purpose.;Build+clean.+Think+deeply.+Ship+fast." alt="Typewriter Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1200&color=c5f566&vCenter=true&width=800&lines=Pixel-perfect+isn%E2%80%99t+enough+%E2%80%94+it+must+feel+right.;Crafting+interfaces+that+move+with+meaning.;Every+line+of+code+serves+a+purpose.;Build+clean.+Think+deeply.+Ship+fast." alt="Typewriter Tagline" />
 </h3>
 
 
