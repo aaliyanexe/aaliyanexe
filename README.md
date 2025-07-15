@@ -98,8 +98,9 @@ I build with intention — combining creativity and control.
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=c5f566&text_color=ffffff&border_color=30363d&hide_border=false" width="43%" style="margin-bottom: 20px; display: inline-block; vertical-align: top;" />
 </div>
 
-<div style="text-align: left;">
+<div style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyanexe&theme=tokyonight" />
   <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=5e7d1f&style=flat-square" />
 </div>
+
 ---
