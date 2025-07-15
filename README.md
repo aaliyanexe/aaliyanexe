@@ -110,22 +110,16 @@ I build with intention — combining creativity and control.
 
 ### 🤝 Connect with Me
 
+---
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" width="50" title="LinkedIn" />
-  </a>
+  <a href="#"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="30" title="GitHub" /></a>
   &nbsp;&nbsp;
-  <a href="mailto:ahmedaaliyan.dev@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=37246&format=png" width="50" title="Gmail" />
-  </a>
+  <a href="#"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="30" title="Gmail" /></a>
   &nbsp;&nbsp;
-   <a href="https://x.com/AaliyanDevX" target="_blank">
-    <img src="https://img.icons8.com/ios11/512/4D4D4D/twitterx--v2.png" width="50" title="Twitter/X" />
-  </a>
+  <a href="#"><img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx--v1.png" width="30" title="X / Twitter" /></a>
   &nbsp;&nbsp;
-  <a href="https://dev.to/aaliyanexe" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=n98knU41v5Aq&format=png" width="50" title="Dev.to" />
-  </a>
+  <a href="#"><img src="https://img.icons8.com/ios-filled/50/ffffff/dev.png" width="30" title="Dev.to" /></a>
 </p>
 
 
