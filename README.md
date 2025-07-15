@@ -95,7 +95,7 @@ Building clean, efficient UI with a passion for continuous learning.
 
 ---
 
-## 🔍Profile Views
+### 🔍Profile Views
 
 <div align="center">
   
