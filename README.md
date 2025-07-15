@@ -128,3 +128,9 @@ I build with intention — combining creativity and control.
   </a>
 </p>
 
+<pre>
+┌──(aaliyanexe@github)-[~/README]
+└─$ git commit -m "No limits. Just output."
+</pre>
+
+---
