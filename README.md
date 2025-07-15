@@ -98,7 +98,7 @@ Building clean, efficient UI with a passion for continuous learning.
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=b8860b&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=30363d&style=flat-square" />
 
 </div>
 
@@ -108,14 +108,9 @@ Building clean, efficient UI with a passion for continuous learning.
 
 > _Curiosity drives the craft. Focus shapes the outcome._
 
-- 🪐 **Space**  
-  Fuels my need to explore — systems, ideas, and the unknown.
-
-- ⚽ **Football**  
-  Grounds me in teamwork, rhythm, and strategic thinking.
-
-- 🥋 **MMA**  
-  Sharpens discipline, control, and execution under pressure.
+- 🪐 **Space** – Fuels exploration and perspective  
+- ⚽ **Football** – Keeps me in sync with rhythm and teamwork  
+- 🥋 **MMA** – Trains focus, discipline, and precision  
 
 I don’t just code — I **train**, **analyze**, and **build** with the same mindset I bring to the mat or the field:  
 **Precision. Adaptability. Flow.**
