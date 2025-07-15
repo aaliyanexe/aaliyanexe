@@ -97,7 +97,7 @@ Building clean, efficient UI with a passion for continuous learning.
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=c5f566&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=7aa400&style=flat-square" />
 
 </div>
 
