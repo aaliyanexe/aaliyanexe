@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-<img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Dev GIF" height="390" width="360" style="border-radius: 12px; margin-left: 16px;" />
+<img align="right" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="Dev GIF" height="420" width="360" style="border-radius: 12px; margin-left: 16px;" />
 
 Focused on frontend development — mastering HTML, CSS, JavaScript, and expanding into:
 
