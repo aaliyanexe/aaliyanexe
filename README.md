@@ -81,15 +81,6 @@ Building clean, efficient UI with a passion for continuous learning.
 
 ---
 
-## 🌌 Interests
-
-- **🪐 **Space** fuels my curiosity**
-- **⚽ **Football** keeps me in sync with teamwork**  
-- **🥋 **MMA** sharpens my focus and discipline**  
-
-I build with intention — combining creativity and control.
-
----
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -102,7 +93,6 @@ I build with intention — combining creativity and control.
 
 </div>
 
----
 
 ## 🔍Profile Views
 
@@ -111,6 +101,16 @@ I build with intention — combining creativity and control.
   <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=c5f566&style=flat-square" />
 
 </div>
+
+---
+
+## 🌌 Interests
+
+- **🪐 **Space** fuels my curiosity**
+- **⚽ **Football** keeps me in sync with teamwork**  
+- **🥋 **MMA** sharpens my focus and discipline**  
+
+I build with intention — combining creativity and control.
 
 ---
 
