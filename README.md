@@ -93,6 +93,7 @@ Building clean, efficient UI with a passion for continuous learning.
 
 </div>
 
+---
 
 ## 🔍Profile Views
 
