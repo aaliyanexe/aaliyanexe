@@ -100,7 +100,7 @@ I build with intention — combining creativity and control.
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyanexe&theme=github-dark&ring=c5f566&fire=c5f566&currStreakNum=c5f566&sideNums=c5f566&sideLabels=ffffff&dates=ffffff&stroke=30363d" width="50%" />
 
-  <hr style="border: none; height: 1px; background-color: #999; opacity: 0.05;" />
+  # Profile Views
 
   <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=c5f566&style=flat-square" />
 
@@ -128,14 +128,10 @@ I build with intention — combining creativity and control.
   </a>
 </p>
 
-## 👨‍💻 Terminal Signing Off
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=C5F566&center=true&vCenter=true&width=800&lines=echo+%22Thanks+for+visiting+🚀%22;echo+%22Let%E2%80%99s+code+something+awesome+together!%22;exit+0" alt="Terminal Typing Animation" />
 </p>
 
-<p align="center">
-  
 
 
 ---
