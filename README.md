@@ -124,7 +124,7 @@ I build with intention — combining creativity and control.
   </a>
   &nbsp;&nbsp;
   <a href="https://dev.to/aaliyanexe" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg" width="40" title="Dev.to" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6K0at0isJpj-3SbFLWmjREDEI3zDdgbFGuA&s" width="40" title="Dev.to" />
   </a>
 </p>
 
