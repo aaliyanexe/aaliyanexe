@@ -102,7 +102,7 @@ I build with intention — combining creativity and control.
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaliyanexe&theme=onedark&title=Stars,Followers,Commits,Repositories" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aaliyanexe&theme=onedark" />
 </p>
 
 ---
