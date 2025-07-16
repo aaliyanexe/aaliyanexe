@@ -54,7 +54,7 @@ Building clean, efficient UI with a passion for continuous learning.
       <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnV6NTQ4cDljOHdhN3NuZDdoNTE4bWx4OG96NDdjZGEwbnN1Y283byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wJ3soNxg9bETCd0f2J/giphy.gif" alt="TypeScript" height="80" />
     </td>
      <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhydGhoZGxqa2l1Nmx3ZGRjN3JvYzdsajAxdXk3dTQzZjlybWIzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wsUP1ywT7v0bCsLA1W/giphy.gif" alt="Firebase" height="65" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFxaGFqZXFpYXIxN3M0d2FnbGFlaGY2MXYyNmxyd2d0dHAyMnR1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/prKdrFdace0Pjwe6dv/giphy.gif" alt="Firebase" height="65" />
     </td>
   </tr>
   <tr>
