@@ -19,13 +19,13 @@
 
 Focused on frontend development — mastering HTML, CSS, JavaScript, and expanding into:
 
-- **Tailwind CSS**  
+- **Git & GitHub** 
+- **React** 
 - **TypeScript**  
-- **Zustand**  
-- **React Query**  
-- **React**  
+- **Tailwind CSS**
 - **Zod**  
-- **Git & GitHub**  
+- **React Query**  
+- **Zustand**
 
 Building clean, efficient UI with a passion for continuous learning.
 
