@@ -130,7 +130,7 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
   </a>
 
   <a href="mailto:ahmedaaliyan.dev@gmail.com" target="_blank" title="Email">
-    <img src="https://img.icons8.com/?size=512&id=37246&format=png" width="50" alt="Gmail icon" />
+    <img src="https://camo.githubusercontent.com/91120ade5b1709cfa800428330efdd7370351bcb51b3f139534c3a45f053a6f8/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d717952704167676e56307a4826666f726d61743d706e6726636f6c6f723d303030303030" width="50" alt="Gmail icon" />
   </a>
 
   <a href="https://x.com/AaliyanDevX" target="_blank" title="Twitter/X">
