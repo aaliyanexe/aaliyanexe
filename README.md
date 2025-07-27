@@ -17,7 +17,7 @@
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZnMTI5MG8za3EydWR5bGsybW8zZGkybW11bGZzdnoyc2o2dGlsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C5K6WqUDT3963OSHyk/giphy.gif" alt="Dev GIF" height="250" width="250" style="border-radius: 12px; margin-left: 16px;" />
 
- I am a universety student currently 3rd semester in Comsats University Islamabad currently focused on frontend development — mastering HTML, CSS, JavaScript, and expanding into:
+ I am a universety student 3rd semester in Comsats University Islamabad currently focused on frontend development — mastering HTML, CSS, JavaScript, and expanding into:
 
 - **Git & GitHub** 
 - **React** 
