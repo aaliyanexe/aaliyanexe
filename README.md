@@ -157,10 +157,10 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
                                                                                    /\___/                
                                                                                    \/__/                             
 
-   Ahmed Aaliyan — @aaliyanexe
-     ➤ Commit: No limits. Just output.
-    ⚙️ Mode: Developer | Designer | Debugger
-    🛰️ Ping: alive @ localhost
-    🚧 Status: Building the future, one div at a time.
-    📡 Uplink: 100% signal | 0% nonsense
+ Ahmed Aaliyan — @aaliyanexe
+   ➤ Commit: No limits. Just output.
+  ⚙️ Mode: Developer | Designer | Debugger
+  🛰️ Ping: alive @ localhost
+  🚧 Status: Building the future, one div at a time.
+  📡 Uplink: 100% signal | 0% nonsense
 
