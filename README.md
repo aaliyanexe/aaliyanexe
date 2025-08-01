@@ -78,7 +78,7 @@ Building clean, efficient UI with a passion for continuous learning.
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ5NTE3NHF5ajk2Zzlpd3JhNGdvNzYxc2MydGFocno4dzRjNnJqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AxWDZRpMM2q9UNeOmw/giphy.gif" alt="Zustand" height="65"/  >
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://i.postimg.cc/x1ghPJxj/React-Router-Streamline-Svg-Logos.png" alt="React Query" height="65"/  >
+      <img src="https://i.postimg.cc/x1ghPJxj/React-Router-Streamline-Svg-Logos.png" alt="React Query" height="80"/  >
     </td>
     
   </tr>
