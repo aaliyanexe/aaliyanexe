@@ -78,7 +78,7 @@ Building clean, efficient UI with a passion for continuous learning.
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ5NTE3NHF5ajk2Zzlpd3JhNGdvNzYxc2MydGFocno4dzRjNnJqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AxWDZRpMM2q9UNeOmw/giphy.gif" alt="Zustand" height="65"/  >
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.streamlinehq.com%2Ficons%2Fdownload%2Freact-router--31103&psig=AOvVaw0JzjV6Bm5V1GTt8Jhxty_1&ust=1754131870581000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNj859W46Y4DFQAAAAAdAAAAABAE" alt="React Router" height="65"/  >
+      <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/2/react-router-afaraavuno5ulxx3m6dqif.png/react-router-iz5gsrt4bescjzyay2otud.png?_a=DATAdtAAZAA0" alt="React Router" height="65"/  >
     </td>
   </tr>
 </table>
