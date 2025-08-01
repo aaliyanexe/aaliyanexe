@@ -34,7 +34,7 @@ Building clean, efficient UI with a passion for continuous learning.
 
 ## 🛠️ Skills & Technologies 🛰️
 
-<table style="overflow-x: auto; white-space: nowrap; padding: 8px;">
+<table style="max-height: 300px; overflow-y: auto;>
   <tr>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh1cmpwMnd2Y2lxeGxpNDR6MGtjejVoMWUybHUzNTg2c2NtY210NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mfjpjOi8HXDteWlTbY/giphy.gif" alt="HTML" height="70" />
