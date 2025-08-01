@@ -66,7 +66,7 @@ Building clean, efficient UI with a passion for continuous learning.
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="95" />
     </td>
      <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGwxZWZoZ203ZGd3aXVxemFkZG92NnJrcnl4djE1c2pyczhhOGR4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpXliI8MjueGADzKcy/giphy.gif" alt="React Query" height="80"/  >
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlneGNuaGwybnR4NnI4NmppM3l1ODl6ODRzMjQwYzJqaHRwYmdodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ncQ6m9w8vlBFZz9nVR/giphy.gif" alt="React Query" height="80"/  >
     </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhrb3V6Nm9mNmd5YWF6Ym14MDRqaDI5NDFxejQyZTd1dWhmOW9hYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oMM6kiASQLiWr1ZyL8/giphy.gif" alt="Zod" height="80" />
