@@ -116,7 +116,7 @@ Building clean, efficient UI with a passion for continuous learning.
 - ⚽ **Football** – Keeps me in sync with rhythm and teamwork  
 - 🥋 **MMA** – Trains focus, discipline, and precision  
 
-I don’t just code — I **train**, **analyze**, and **build** with the same mindset I bring to the mat or the field:  
+I don’t just code — I **train**, **analyze**, and **build** with the same mindset I bring to the field:  
 **Precision. Adaptability. Flow.**
 
 ---
