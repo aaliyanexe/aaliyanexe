@@ -159,7 +159,7 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="dino" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhleGF1cnFkcnVlY2RtOHdvc2ZmOHI0ODhweGl1bjAwcjc0MWthZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9gFHijlcEUKEKnhci4/giphy.gif" alt="dino" />
 </p>
 
 
