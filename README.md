@@ -34,49 +34,55 @@ Building clean, efficient UI with a passion for continuous learning.
 
 ## 🛠️ Skills & Technologies 🛰️
 
-<table>
+<h2 align="center">🧰 Tools & Skills</h2>
+
+<table align="center">
   <tr>
-    
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNlNTczNDhkbGs5bTEwcjdsemVteHV2Nm1reG9vdDB0MzM3bnlraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IM5pQbmUWkJCL18O6W/giphy.gif" alt="Flutter" height="120" />
+    <!-- Flutter -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNlNTczNDhkbGs5bTEwcjdsemVteHV2Nm1reG9vdDB0MzM3bnlraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IM5pQbmUWkJCL18O6W/giphy.gif" alt="Flutter" height="90" />
     </td>
-     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhydGhoZGxqa2l1Nmx3ZGRjN3JvYzdsajAxdXk3dTQzZjlybWIzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wsUP1ywT7v0bCsLA1W/giphy.gif" alt="Firebase" height="65" />
+    <!-- Dart -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="80" />
+    </td>
+    <!-- Firebase -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhydGhoZGxqa2l1Nmx3ZGRjN3JvYzdsajAxdXk3dTQzZjlybWIzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wsUP1ywT7v0bCsLA1W/giphy.gif" alt="Firebase" height="70" />
+    </td>
+    <!-- JavaScript -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" height="85" />
+    </td>
+    <!-- Python -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="80" />
+    </td>
+    <!-- C++ -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="80" />
+    </td>
+    <!-- Java -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="80" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
+    <!-- Git -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFjaHkxbjBzcHZ1bXRhODA1cGhwY2U1dnQzNDh5cjV6ZjBpbWljNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Hx31xHvQ27bAKtbYO2/giphy.gif" alt="Git" height="80" />
     </td>
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="95" />
+    <!-- GitHub -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="85" />
     </td>
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="REST API" height="95" />
+    <!-- REST API -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="REST API" height="85" />
     </td>
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh1cmpwMnd2Y2lxeGxpNDR6MGtjejVoMWUybHUzNTg2c2NtY210NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mfjpjOi8HXDteWlTbY/giphy.gif" alt="HTML" height="70" />
-    </td>
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVwbTdsODNzM3h4a2s5NzA2N2x1cW5rY2w0Y2NyMmk1MXRycTJxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgpN5K7VTbIfUhk8Od/giphy.gif" alt="CSS" height="70" />
-    </td>
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" height="95" />
-    </td>
-  <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      
-  </td>
-  <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      
-  </td>
-  <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      
-  </td>
-  <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      
-  </td>
   </tr>
 </table>
+
 
 ---
 
