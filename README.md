@@ -77,6 +77,9 @@ Building clean, efficient UI with a passion for continuous learning.
   <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       
   </td>
+  <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
+      
+  </td>
   </tr>
 </table>
 
