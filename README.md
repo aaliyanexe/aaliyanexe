@@ -65,19 +65,18 @@ Building clean, efficient UI with a passion for continuous learning.
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="95" />
     </td>
-     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlneGNuaGwybnR4NnI4NmppM3l1ODl6ODRzMjQwYzJqaHRwYmdodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ncQ6m9w8vlBFZz9nVR/giphy.gif" alt="React Query" height="80"/  >
-    </td>
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhrb3V6Nm9mNmd5YWF6Ym14MDRqaDI5NDFxejQyZTd1dWhmOW9hYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oMM6kiASQLiWr1ZyL8/giphy.gif" alt="Zod" height="80" />
-    </td>
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
       <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="REST API" height="95" />
     </td>
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ5NTE3NHF5ajk2Zzlpd3JhNGdvNzYxc2MydGFocno4dzRjNnJqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AxWDZRpMM2q9UNeOmw/giphy.gif" alt="Zustand" height="65"/  >
-    </td>
-    <td></td>
+  <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
+      
+  </td>
+  <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
+      
+  </td>
+  <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:6px;">
+      
+  </td>
   </tr>
 </table>
 
