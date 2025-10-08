@@ -34,17 +34,15 @@ Building clean, efficient UI with a passion for continuous learning.
 
 ## 🛠️ Skills & Technologies 🛰️
 
-<h2 align="center">🧰 Tools & Skills</h2>
-
 <table align="center">
   <tr>
     <!-- Flutter -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNlNTczNDhkbGs5bTEwcjdsemVteHV2Nm1reG9vdDB0MzM3bnlraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IM5pQbmUWkJCL18O6W/giphy.gif" alt="Flutter" height="90" />
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNlNTczNDhkbGs5bTEwcjdsemVteHV2Nm1reG9vdDB0MzM3bnlraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IM5pQbmUWkJCL18O6W/giphy.gif" alt="Flutter" height="85" />
     </td>
     <!-- Dart -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="80" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="75" />
     </td>
     <!-- Firebase -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
@@ -52,33 +50,57 @@ Building clean, efficient UI with a passion for continuous learning.
     </td>
     <!-- JavaScript -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" height="85" />
+      <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" height="80" />
     </td>
     <!-- Python -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="80" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="75" />
     </td>
     <!-- C++ -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="80" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="75" />
     </td>
     <!-- Java -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="80" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="75" />
+    </td>
+    <!-- REST API -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="REST API" height="80" />
     </td>
   </tr>
   <tr>
     <!-- Git -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFjaHkxbjBzcHZ1bXRhODA1cGhwY2U1dnQzNDh5cjV6ZjBpbWljNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Hx31xHvQ27bAKtbYO2/giphy.gif" alt="Git" height="80" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFjaHkxbjBzcHZ1bXRhODA1cGhwY2U1dnQzNDh5cjV6ZjBpbWljNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Hx31xHvQ27bAKtbYO2/giphy.gif" alt="Git" height="75" />
     </td>
     <!-- GitHub -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="85" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="80" />
     </td>
-    <!-- REST API -->
+    <!-- VS Code -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="REST API" height="85" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="75" />
+    </td>
+    <!-- CLion -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" alt="CLion" height="75" />
+    </td>
+    <!-- Android Studio -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="75" />
+    </td>
+    <!-- Figma -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="70" />
+    </td>
+    <!-- Postman -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="75" />
+    </td>
+    <!-- Terminal -->
+    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Terminal" height="75" />
     </td>
   </tr>
 </table>
