@@ -38,7 +38,7 @@ My next goal is to expand into backend development and grow into a full-stack mo
     </td>
     <!-- Python -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="67" />
+      <img src="https://i.postimg.cc/pT5RD4qP/Template-3.png" alt="Python" height="67" />
     </td>
     <!-- C++ -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
@@ -132,7 +132,7 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
 <p align="center">
 
   <a href="mailto:aaliyan.devdesign@gmail.com" target="_blank" title="Email">
-    <img src="https://i.postimg.cc/GmbR1hGZ/gmail.png" width="80" alt="Gmail icon" />
+    <img src="https://i.postimg.cc/85fNh9w3/Template.png" width="80" alt="Gmail icon" />
   </a>
 
   <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank" title="LinkedIn">
@@ -140,7 +140,7 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
   </a>
 
   <a href="https://www.behance.net/ahmedaaliyan1" target="_blank" title="Behance">
-    <img src="https://i.postimg.cc/wj9zdTLF/Behance.png" width="80" alt="Behance icon" />
+    <img src="https://i.postimg.cc/Kz3xnwJX/Template-1.png" width="80" alt="Behance icon" />
   </a>
 
   <a href="https://x.com/aaliyanexe" target="_blank" title="Twitter/X">
@@ -148,7 +148,7 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
   </a>
 
   <a href="https://medium.com/@aaliyan.devdesign" target="_blank" title="Medium">
-    <img src="https://i.postimg.cc/QCLQFzqf/medium-2-1.png" width="80" alt="Medium icon" />
+    <img src="https://i.postimg.cc/QtKhpw0D/Template-2.png" width="80" alt="Medium icon" />
   </a>
 
 </p>
