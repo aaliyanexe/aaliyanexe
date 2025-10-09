@@ -46,7 +46,7 @@ My next goal is to expand into backend development and grow into a full-stack mo
     </td>
     <!-- Java -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/j528Kykw/Gemini-Generated-Image-h0bsgbh0bsgbh0bs-removebg-preview-1.png" alt="Java" height="73" />
+      <img src="https://i.postimg.cc/j528Kykw/Gemini-Generated-Image-h0bsgbh0bsgbh0bs-removebg-preview-1.png" alt="Java" height="68" />
     </td>
     <!-- Git -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
