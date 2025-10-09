@@ -30,19 +30,19 @@ My next goal is to expand into backend development and grow into a full-stack mo
     </td>
     <!-- Firebase -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/zfbGjyfr/Frame-3.png" alt="Firebase" height="90" />
+      <img src="https://i.postimg.cc/zfbGjyfr/Frame-3.png" alt="Firebase" height="100" />
     </td>
     <!-- JavaScript -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" height="110" />
+      <img src="https://i.postimg.cc/KYj4K9Tn/Frame-6.png" alt="JavaScript" height="100" />
     </td>
     <!-- Python -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/pT5RD4qP/Template-3.png" alt="Python" height="90" />
+      <img src="https://i.postimg.cc/pT5RD4qP/Template-3.png" alt="Python" height="100" />
     </td>
     <!-- C++ -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/j2J13r7S/Frame-5.png" alt="C++" height="90" />
+      <img src="https://i.postimg.cc/j2J13r7S/Frame-5.png" alt="C++" height="100" />
     </td>
     <!-- Java -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
