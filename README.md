@@ -37,71 +37,68 @@ Building clean, efficient UI with a passion for continuous learning.
 <table align="center">
   <tr>
     <!-- Flutter -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
       <img src="https://i.postimg.cc/hjvCgV3m/Gemini-Generated-Image-qir1nmqir1nmqir1-removebg-preview.png" alt="Flutter" height="85" />
     </td>
     <!-- Dart -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
       <img src="https://i.postimg.cc/50yP18kX/Gemini-Generated-Image-jq6py3jq6py3jq6p-removebg-preview.png" alt="Dart" height="75" />
     </td>
     <!-- Firebase -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhydGhoZGxqa2l1Nmx3ZGRjN3JvYzdsajAxdXk3dTQzZjlybWIzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wsUP1ywT7v0bCsLA1W/giphy.gif" alt="Firebase" height="70" />
     </td>
     <!-- JavaScript -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
       <img src="https://camo.githubusercontent.com/9f44b299b7e1173e15c41a2bb04863ca5e78c81ab947283d3b6f6475871b8f60/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" height="80" />
     </td>
     <!-- Python -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="75" />
     </td>
     <!-- C++ -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="75" />
     </td>
     <!-- Java -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
       <img src="https://i.postimg.cc/j528Kykw/Gemini-Generated-Image-h0bsgbh0bsgbh0bs-removebg-preview-1.png" alt="Java" height="75" />
     </td>
     <!-- Git -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFjaHkxbjBzcHZ1bXRhODA1cGhwY2U1dnQzNDh5cjV6ZjBpbWljNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Hx31xHvQ27bAKtbYO2/giphy.gif" alt="Git" height="75" />
-    </td>
-    <!-- GitHub -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="80" />
     </td>
   </tr>
   <tr>
+    <!-- GitHub -->
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="80" />
+    </td>
     <!-- VS Code -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
       <img src="https://i.postimg.cc/V6v71XHv/1326245a-80a2-447c-81bf-34cf7a0b8e13-removalai-preview-1.png" alt="VS Code" height="75" />
     </td>
     <!-- Android Studio -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
       <img src="https://i.postimg.cc/zf0d9xpv/91b3d6e1-6194-4e6e-a84d-85cfa3653bc4-removalai-preview-1.png" alt="Android Studio" height="75" />
     </td>
     <!-- Figma -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
       <img src="https://i.postimg.cc/rmshc5YR/figma-1.png" alt="Figma" height="70" />
     </td>
-    <!-- REST API (moved here) -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
+    <!-- REST API (moved here as last filled) -->
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
       <img src="https://camo.githubusercontent.com/baded9c49142c6eba68bc067e0d4b7c06db95b2b359eb048ff2112ff08686f06/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667" alt="REST API" height="80" />
     </td>
     <!-- Empty 1 -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;"></td>
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;"></td>
     <!-- Empty 2 -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;"></td>
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;"></td>
     <!-- Empty 3 -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;"></td>
-    <!-- Empty 4 -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;"></td>
-    <!-- Empty 5 -->
-    <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;"></td>
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;"></td>
   </tr>
 </table>
+
 
 
 
