@@ -30,7 +30,7 @@ My next goal is to expand into backend development and grow into a full-stack mo
     </td>
     <!-- Firebase -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnhydGhoZGxqa2l1Nmx3ZGRjN3JvYzdsajAxdXk3dTQzZjlybWIzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wsUP1ywT7v0bCsLA1W/giphy.gif" alt="Firebase" height="67" />
+      <img src="https://i.postimg.cc/zfbGjyfr/Frame-3.png" alt="Firebase" height="80" />
     </td>
     <!-- JavaScript -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
@@ -136,7 +136,7 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
   </a>
 
   <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank" title="LinkedIn">
-    <img src="https://i.postimg.cc/HkTmCsb1/linkedin.png" width="70" alt="LinkedIn icon" />
+    <img src="https://i.postimg.cc/HkTmCsb1/linkedin.png" width="80" alt="LinkedIn icon" />
   </a>
 
   <a href="https://www.behance.net/ahmedaaliyan1" target="_blank" title="Behance">
@@ -144,7 +144,7 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
   </a>
 
   <a href="https://x.com/aaliyanexe" target="_blank" title="Twitter/X">
-    <img src="https://i.postimg.cc/Z5JmhK6Y/twitter.png" width="70" alt="Twitter/X icon" />
+    <img src="https://i.postimg.cc/Z5JmhK6Y/twitter.png" width="80" alt="Twitter/X icon" />
   </a>
 
   <a href="https://medium.com/@aaliyan.devdesign" target="_blank" title="Medium">
