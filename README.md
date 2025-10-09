@@ -1,5 +1,7 @@
 # 👨‍🚀 Ahmed Aaliyan – Mobile Developer
 
+---
+
 <p align="center">
   <img src="https://i.postimg.cc/63pNg92S/i-Pad-Apple-Pencil.png" style="max-width: 100%; height: auto;" width="900"/>
 </p>
