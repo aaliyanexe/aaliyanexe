@@ -92,7 +92,7 @@ Outside of code, I’m usually sketching new interfaces or studying how design a
 
 <!-- Top row: GitHub Stats + Top Languages -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&count_private=true&theme=github_dark&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20Stats" height="500" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&count_private=true&theme=github_dark&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20Stats" height="600" width="48%" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=facc15&text_color=ffffff&border_color=30363d&hide_border=false" width="48%" />
 </div>
