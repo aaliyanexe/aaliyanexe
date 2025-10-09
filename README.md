@@ -143,37 +143,29 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
 ---
 
 ## 🤝 Connect with Me
+
+
 <p align="center">
 
   <a href="mailto:aaliyan.devdesign@gmail.com" target="_blank" title="Email">
     <img src="https://i.postimg.cc/GmbR1hGZ/gmail.png" width="80" alt="Gmail icon" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank" title="LinkedIn">
     <img src="https://i.postimg.cc/HkTmCsb1/linkedin.png" width="80" alt="LinkedIn icon" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.behance.net/ahmedaaliyan1" target="_blank" title="Behance">
     <img src="https://i.postimg.cc/wj9zdTLF/Behance.png" width="80" alt="Behance icon" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://x.com/aaliyanexe" target="_blank" title="Twitter/X">
     <img src="https://i.postimg.cc/Z5JmhK6Y/twitter.png" width="80" alt="Twitter/X icon" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://medium.com/@aaliyan.devdesign" target="_blank" title="Medium">
-    <img src="https://i.postimg.cc/QCLQFzqf/medium-2-1.png" width="80" alt="Medium icon" />
-  </a>
+    <img src="https://i.postimg.cc/QCLQFzqf/medium-2-1.
 
-</p>
 
 
 
