@@ -54,7 +54,7 @@ Building clean, efficient UI with a passion for continuous learning.
     </td>
     <!-- Python -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="73" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="70" />
     </td>
     <!-- C++ -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
@@ -72,7 +72,7 @@ Building clean, efficient UI with a passion for continuous learning.
   <tr>
     <!-- GitHub -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="80" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="90" />
     </td>
     <!-- VS Code -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
