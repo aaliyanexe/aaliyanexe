@@ -7,10 +7,6 @@
 
 ## 👋 About Me
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZnMTI5MG8za3EydWR5bGsybW8zZGkybW11bGZzdnoyc2o2dGlsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C5K6WqUDT3963OSHyk/giphy.gif" alt="Dev GIF" height="250" width="250" style="border-radius: 12px; margin-left: 16px;" />
-
-🚀 About Me
-
 I’m a 3rd-semester Software Engineering student at COMSATS University Islamabad, focusing on mobile app development.
 I build high-performance Flutter apps that blend clean code, scalable architecture, and elegant UI/UX.
 
