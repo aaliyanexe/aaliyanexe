@@ -42,7 +42,7 @@ My next goal is to expand into backend development and grow into a full-stack mo
     </td>
     <!-- C++ -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" height="75" />
+      <img src="https://i.postimg.cc/j2J13r7S/Frame-5.png" alt="C++" height="90" />
     </td>
     <!-- Java -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
