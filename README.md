@@ -7,12 +7,13 @@
 
 ## 👋 About Me
 
-I’m a 3rd-semester Software Engineering student at COMSATS University Islamabad, focusing on mobile app development.
-I build high-performance Flutter apps that blend clean code, scalable architecture, and elegant UI/UX.
+I’m **Ahmed Aaliyan**, a Mobile Developer crafting **beautiful, high-performance Flutter apps** that merge design and engineering.  
 
-Currently mastering Flutter, Dart, Firebase, and Git/GitHub, while refining skills in UI/UX design and architectural patterns like MVVM and Clean Architecture.
+I believe apps should **feel crafted, not coded** — every pixel and frame matters. My process revolves around **clean architecture**, **fluid UI motion**, and building experiences that users *remember*.  
 
-My next goal is to expand into backend development and grow into a full-stack mobile developer, capable of crafting complete, end-to-end digital experiences.
+Currently exploring **Supabase**, **backend patterns**, and **UI micro-interactions** to push mobile UX even further.  
+
+Outside of code, I’m usually sketching new interfaces or studying how design and psychology shape user flow.
 
 ---
 
