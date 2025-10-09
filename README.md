@@ -89,26 +89,31 @@ Outside of code, I’m usually sketching new interfaces or studying how design a
 ---
 
 ## 📊 GitHub Stats
-
-<!-- Top row: GitHub Stats + Top Languages -->
+<!-- GitHub Stats Dashboard -->
 <div align="center">
+
+  <!-- Top row: GitHub Stats + Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=aaliyanexe&show_icons=true&count_private=true&theme=github_dark&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20Stats" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=facc15&text_color=ffffff&border_color=30363d&hide_border=false" height="400" width="48%" />
-</div>
 
-<br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=facc15&text_color=ffffff&border_color=30363d&hide_border=false" width="43%" />
 
-<!-- Second row: Streak Stats -->
-<div align="center">
+  <!-- Second row: Streak Stats -->
   <img src="https://github-readme-streak-stats-91to.vercel.app?user=aaliyanexe&theme=github-dark&ring=facc15&fire=facc15&currStreakNum=facc15&sideNums=facc15&sideLabels=ffffff&dates=ffffff&border=30363d" width="50%"/>
+
 </div>
 
 <br/>
 
-<!-- Third row: Profile Views -->
+<!-- Profile Views -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aaliyanexe&label=Profile+Views&color=d99904&style=flat-square" />
+</div>
+
+<br/>
+
+<!-- Optional Tagline -->
+<div align="center">
+  💡 Exploring Flutter & UI/UX • Open to Collaborations 🚀
 </div>
 
 
