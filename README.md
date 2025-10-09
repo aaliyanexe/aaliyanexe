@@ -17,6 +17,7 @@ I build high-performance Flutter apps that blend clean code, scalable architectu
 Currently mastering Flutter, Dart, Firebase, and Git/GitHub, while refining skills in UI/UX design and architectural patterns like MVVM and Clean Architecture.
 
 My next goal is to expand into backend development and grow into a full-stack mobile developer, capable of crafting complete, end-to-end digital experiences.
+
 ---
 
 ## 🛠️ Skills & Technologies 🛰️
