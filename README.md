@@ -147,7 +147,7 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
 <p align="center" style="gap: 24px; display: flex; justify-content: center; align-items: center;">
 
   <a href="mailto:aaliyan.devdesign@gmail.com" target="_blank" title="Email">
-    <img src="https://i.postimg.cc/GmbR1hGZ/gmail.png" width="80" alt="Gmail icon" />
+    <img src="https://i.postimg.cc/GmbR1hGZ/gmail.png" width="90" alt="Gmail icon" />
   </a>
 
   <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank" title="LinkedIn">
@@ -163,7 +163,7 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
   </a>
 
   <a href="https://medium.com/@aaliyan.devdesign" target="_blank" title="Medium">
-    <img src="https://i.postimg.cc/t49bHCFX/medium-1-1.png" width="80" alt="Medium icon" />
+    <img src="https://i.postimg.cc/t49bHCFX/medium-1-1.png" width="110" alt="Medium icon" />
   </a>
 
 </p>
