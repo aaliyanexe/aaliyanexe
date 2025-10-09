@@ -165,7 +165,7 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
 
   <a href="https://medium.com/@aaliyan.devdesign" target="_blank" title="Medium">
     <img src="https://i.postimg.cc/QCLQFzqf/medium-2-1.
-
+      </a>
 
 
 
