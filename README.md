@@ -71,8 +71,7 @@ My next goal is to expand into backend development and grow into a full-stack mo
       <img src="https://i.postimg.cc/rmshc5YR/figma-1.png" alt="Figma" height="80" />
     </td>
     <!-- REST API (moved here as last filled) -->
-    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;"> 
     </td>
     <!-- Empty 1 -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;"></td>
