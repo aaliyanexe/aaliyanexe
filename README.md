@@ -66,7 +66,7 @@ Building clean, efficient UI with a passion for continuous learning.
     </td>
     <!-- Git -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/VkjMr5Cy/658ce52a-a9be-48ae-9b75-2ae7dd3983a3-removalai-preview-1.png" alt="Git" height="75" />
+      <img src="https://i.postimg.cc/VkjMr5Cy/658ce52a-a9be-48ae-9b75-2ae7dd3983a3-removalai-preview-1.png" alt="Git" height="80" />
     </td>
   </tr>
   <tr>
