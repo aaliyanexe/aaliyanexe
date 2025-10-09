@@ -66,13 +66,13 @@ Building clean, efficient UI with a passion for continuous learning.
     </td>
     <!-- Git -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/VkjMr5Cy/658ce52a-a9be-48ae-9b75-2ae7dd3983a3-removalai-preview-1.png" alt="Git" height="80" />
+      <img src="https://i.postimg.cc/259QdyC4/658ce52a-a9be-48ae-9b75-2ae7dd3983a3-removalai-preview-1.png" alt="Git" height="80" />
     </td>
   </tr>
   <tr>
     <!-- GitHub -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="100" />
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkaWVkaTNsbTlmOGQwem56aTJqbTBiMTMybTZzdWg0MG8ybzhiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1sECtfCfV1ROlUUk0b/giphy.gif" alt="GitHub" height="110" />
     </td>
     <!-- VS Code -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
