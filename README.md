@@ -135,7 +135,7 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
   </a>
 
   <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank" title="LinkedIn">
-    <img src="https://i.postimg.cc/HkTmCsb1/linkedin.png" width="75" alt="LinkedIn icon" />
+    <img src="https://i.postimg.cc/HkTmCsb1/linkedin.png" width="77" alt="LinkedIn icon" />
   </a>
 
   <a href="https://www.behance.net/ahmedaaliyan1" target="_blank" title="Behance">
@@ -143,7 +143,7 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
   </a>
 
   <a href="https://x.com/aaliyanexe" target="_blank" title="Twitter/X">
-    <img src="https://i.postimg.cc/Z5JmhK6Y/twitter.png" width="75" alt="Twitter/X icon" />
+    <img src="https://i.postimg.cc/Z5JmhK6Y/twitter.png" width="77" alt="Twitter/X icon" />
   </a>
 
   <a href="https://medium.com/@aaliyan.devdesign" target="_blank" title="Medium">
