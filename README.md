@@ -38,7 +38,7 @@ My next goal is to expand into backend development and grow into a full-stack mo
     </td>
     <!-- Python -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/pT5RD4qP/Template-3.png" alt="Python" height="67" />
+      <img src="https://i.postimg.cc/pT5RD4qP/Template-3.png" alt="Python" height="80" />
     </td>
     <!-- C++ -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
