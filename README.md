@@ -38,7 +38,7 @@ Building clean, efficient UI with a passion for continuous learning.
   <tr>
     <!-- Flutter -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://i.postimg.cc/hv2rgPd5/Gemini-Generated-Image-qir1nmqir1nmqir1.png" alt="Flutter" height="85" />
+      <img src="https://i.postimg.cc/hjvCgV3m/Gemini-Generated-Image-qir1nmqir1nmqir1-removebg-preview.png" alt="Flutter" height="85" />
     </td>
     <!-- Dart -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
