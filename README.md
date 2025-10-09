@@ -38,11 +38,11 @@ Building clean, efficient UI with a passion for continuous learning.
   <tr>
     <!-- Flutter -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/hjvCgV3m/Gemini-Generated-Image-qir1nmqir1nmqir1-removebg-preview.png" alt="Flutter" height="85" />
+      <img src="https://i.postimg.cc/hjvCgV3m/Gemini-Generated-Image-qir1nmqir1nmqir1-removebg-preview.png" alt="Flutter" height="80" />
     </td>
     <!-- Dart -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/50yP18kX/Gemini-Generated-Image-jq6py3jq6py3jq6p-removebg-preview.png" alt="Dart" height="75" />
+      <img src="https://i.postimg.cc/50yP18kX/Gemini-Generated-Image-jq6py3jq6py3jq6p-removebg-preview.png" alt="Dart" height="80" />
     </td>
     <!-- Firebase -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
@@ -54,15 +54,15 @@ Building clean, efficient UI with a passion for continuous learning.
     </td>
     <!-- Python -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="75" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" height="80" />
     </td>
     <!-- C++ -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="75" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" height="75" />
     </td>
     <!-- Java -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/j528Kykw/Gemini-Generated-Image-h0bsgbh0bsgbh0bs-removebg-preview-1.png" alt="Java" height="75" />
+      <img src="https://i.postimg.cc/j528Kykw/Gemini-Generated-Image-h0bsgbh0bsgbh0bs-removebg-preview-1.png" alt="Java" height="80" />
     </td>
     <!-- Git -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
@@ -76,15 +76,15 @@ Building clean, efficient UI with a passion for continuous learning.
     </td>
     <!-- VS Code -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/V6v71XHv/1326245a-80a2-447c-81bf-34cf7a0b8e13-removalai-preview-1.png" alt="VS Code" height="75" />
+      <img src="https://i.postimg.cc/V6v71XHv/1326245a-80a2-447c-81bf-34cf7a0b8e13-removalai-preview-1.png" alt="VS Code" height="80" />
     </td>
     <!-- Android Studio -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/zf0d9xpv/91b3d6e1-6194-4e6e-a84d-85cfa3653bc4-removalai-preview-1.png" alt="Android Studio" height="75" />
+      <img src="https://i.postimg.cc/zf0d9xpv/91b3d6e1-6194-4e6e-a84d-85cfa3653bc4-removalai-preview-1.png" alt="Android Studio" height="80" />
     </td>
     <!-- Figma -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/rmshc5YR/figma-1.png" alt="Figma" height="70" />
+      <img src="https://i.postimg.cc/rmshc5YR/figma-1.png" alt="Figma" height="80" />
     </td>
     <!-- REST API (moved here as last filled) -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
