@@ -29,7 +29,7 @@ My next goal is to expand into backend development and grow into a full-stack mo
       <img src="https://i.postimg.cc/50yP18kX/Gemini-Generated-Image-jq6py3jq6py3jq6p-removebg-preview.png" alt="Dart" height="80" />
     </td>
     <!-- Firebase -->
-    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
+    <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:5px;">
       <img src="https://i.postimg.cc/zfbGjyfr/Frame-3.png" alt="Firebase" height="120" />
     </td>
     <!-- JavaScript -->
