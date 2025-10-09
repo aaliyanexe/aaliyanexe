@@ -163,7 +163,7 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
   </a>
 
   <a href="https://medium.com/@aaliyan.devdesign" target="_blank" title="Medium">
-    <img src="https://i.postimg.cc/t49bHCFX/medium-1-1.png" width="110" alt="Medium icon" />
+    <img src="https://i.postimg.cc/QCLQFzqf/medium-2-1.png" width="80" alt="Medium icon" />
   </a>
 
 </p>
