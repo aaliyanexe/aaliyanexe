@@ -1,7 +1,7 @@
-# 👨‍🚀 Ahmed Aaliyan – Front-End Developer  
+# 👨‍🚀 Ahmed Aaliyan – Mobile Developer
 
 <p align="center">
-  <img src="https://i.postimg.cc/kGqrt2jM/carbon-4-1.png" alt="Terminal Banner" style="max-width: 100%; height: auto;" width="900"/>
+  <img src="https://i.postimg.cc/63pNg92S/i-Pad-Apple-Pencil.png" style="max-width: 100%; height: auto;" width="900"/>
 </p>
 
 <hr style="border: none; height: 1px; background-color: #999;  opacity: 0.1; margin: 16px 0;" />
