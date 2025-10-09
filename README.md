@@ -22,7 +22,7 @@ My next goal is to expand into backend development and grow into a full-stack mo
   <tr>
     <!-- Flutter -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/hjvCgV3m/Gemini-Generated-Image-qir1nmqir1nmqir1-removebg-preview.png" alt="Flutter" height="80" />
+      <img src="https://i.postimg.cc/hjvCgV3m/Gemini-Generated-Image-qir1nmqir1nmqir1-removebg-preview.png" alt="Flutter" height="70" />
     </td>
     <!-- Dart -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
