@@ -16,21 +16,28 @@
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZnMTI5MG8za3EydWR5bGsybW8zZGkybW11bGZzdnoyc2o2dGlsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C5K6WqUDT3963OSHyk/giphy.gif" alt="Dev GIF" height="250" width="250" style="border-radius: 12px; margin-left: 16px;" />
 
-I’m a 3rd-semester Software Engineering student at COMSATS University Islamabad, currently specializing in mobile app development.
+🚀 About Me
 
-I’m passionate about building seamless, high-performance Flutter applications that merge clean code with thoughtful design. My current focus is on mastering:
+🎓 Education:
+I’m a 3rd-semester Software Engineering student at COMSATS University Islamabad, specializing in mobile app development.
 
-Flutter & Dart – crafting cross-platform, production-ready apps
+💡 Passion:
+I love creating seamless, high-performance Flutter apps — combining clean code, modern design, and intuitive user experiences.
 
-UI/UX Design – blending visual storytelling with usability
+🧠 Currently Learning:
 
-Firebase – integrating real-time databases, authentication, and cloud storage
+Flutter & Dart — building cross-platform, production-ready apps
 
-Version Control (Git & GitHub) – maintaining efficient, collaborative workflows
+UI/UX Design — shaping beautiful, accessible, and purposeful interfaces
 
-App Architecture – exploring scalable patterns like Clean Architecture and MVVM
+Firebase — adding authentication, databases, and real-time features
 
-🌱 Future Goal: Expanding into backend development to become a full-stack mobile developer, capable of delivering end-to-end digital experiences — from elegant front-end interfaces to robust server-side systems.
+Version Control (Git & GitHub) — writing maintainable and collaborative code
+
+App Architecture — exploring scalable patterns like MVVM & Clean Architecture
+
+🌱 Future Goal:
+To expand into backend development and grow into a full-stack mobile developer, building complete, end-to-end digital experiences.
 
 ---
 
