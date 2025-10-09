@@ -144,29 +144,42 @@ I don’t just code — I **train**, **analyze**, and **build** with the same mi
 
 ## 🤝 Connect with Me
 
-<p align="center" style="gap: 24px; display: flex; justify-content: center; align-items: center;">
+<p align="center" style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+  flex-wrap: wrap;
+  margin: 30px 0;
+">
 
   <a href="mailto:aaliyan.devdesign@gmail.com" target="_blank" title="Email">
-    <img src="https://i.postimg.cc/GmbR1hGZ/gmail.png" width="90" alt="Gmail icon" />
+    <img src="https://i.postimg.cc/GmbR1hGZ/gmail.png" width="65" alt="Gmail"
+      style="border-radius:12px; filter:drop-shadow(0 0 6px rgba(250,193,21,0.4)); transition:transform 0.2s ease;" />
   </a>
 
   <a href="https://www.linkedin.com/in/ahmed-aaliyan-98a046327" target="_blank" title="LinkedIn">
-    <img src="https://i.postimg.cc/HkTmCsb1/linkedin.png" width="80" alt="LinkedIn icon" />
+    <img src="https://i.postimg.cc/HkTmCsb1/linkedin.png" width="60" alt="LinkedIn"
+      style="border-radius:12px; filter:drop-shadow(0 0 6px rgba(250,193,21,0.4)); transition:transform 0.2s ease;" />
   </a>
 
   <a href="https://www.behance.net/ahmedaaliyan1" target="_blank" title="Behance">
-    <img src="https://i.postimg.cc/wj9zdTLF/Behance.png" width="80" alt="Behance icon" />
+    <img src="https://i.postimg.cc/wj9zdTLF/Behance.png" width="60" alt="Behance"
+      style="border-radius:12px; filter:drop-shadow(0 0 6px rgba(250,193,21,0.4)); transition:transform 0.2s ease;" />
   </a>
 
   <a href="https://x.com/aaliyanexe" target="_blank" title="Twitter/X">
-    <img src="https://i.postimg.cc/Z5JmhK6Y/twitter.png" width="80" alt="Twitter/X icon" />
+    <img src="https://i.postimg.cc/Z5JmhK6Y/twitter.png" width="60" alt="Twitter/X"
+      style="border-radius:12px; filter:drop-shadow(0 0 6px rgba(250,193,21,0.4)); transition:transform 0.2s ease;" />
   </a>
 
   <a href="https://medium.com/@aaliyan.devdesign" target="_blank" title="Medium">
-    <img src="https://i.postimg.cc/QCLQFzqf/medium-2-1.png" width="80" alt="Medium icon" />
+    <img src="https://i.postimg.cc/QCLQFzqf/medium-2-1.png" width="60" alt="Medium"
+      style="border-radius:12px; filter:drop-shadow(0 0 6px rgba(250,193,21,0.4)); transition:transform 0.2s ease;" />
   </a>
 
 </p>
+
 
 ---
 
