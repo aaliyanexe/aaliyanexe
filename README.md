@@ -22,11 +22,11 @@ My next goal is to expand into backend development and grow into a full-stack mo
   <tr>
     <!-- Flutter -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/hjvCgV3m/Gemini-Generated-Image-qir1nmqir1nmqir1-removebg-preview.png" alt="Flutter" height="73" />
+      <img src="https://i.postimg.cc/hjvCgV3m/Gemini-Generated-Image-qir1nmqir1nmqir1-removebg-preview.png" alt="Flutter" height="68" />
     </td>
     <!-- Dart -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/50yP18kX/Gemini-Generated-Image-jq6py3jq6py3jq6p-removebg-preview.png" alt="Dart" height="73" />
+      <img src="https://i.postimg.cc/50yP18kX/Gemini-Generated-Image-jq6py3jq6py3jq6p-removebg-preview.png" alt="Dart" height="68" />
     </td>
     <!-- Firebase -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:5px;">
@@ -50,21 +50,21 @@ My next goal is to expand into backend development and grow into a full-stack mo
     </td>
     <!-- Git -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/259QdyC4/658ce52a-a9be-48ae-9b75-2ae7dd3983a3-removalai-preview-1.png" alt="Git" height="73" />
+      <img src="https://i.postimg.cc/259QdyC4/658ce52a-a9be-48ae-9b75-2ae7dd3983a3-removalai-preview-1.png" alt="Git" height="68" />
     </td>
   </tr>
   <tr>
     <!-- GitHub -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/q74K808F/github-1.png" alt="GitHub" height="73" />
+      <img src="https://i.postimg.cc/q74K808F/github-1.png" alt="GitHub" height="68" />
     </td>
     <!-- VS Code -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/V6v71XHv/1326245a-80a2-447c-81bf-34cf7a0b8e13-removalai-preview-1.png" alt="VS Code" height="73" />
+      <img src="https://i.postimg.cc/V6v71XHv/1326245a-80a2-447c-81bf-34cf7a0b8e13-removalai-preview-1.png" alt="VS Code" height="68" />
     </td>
     <!-- Android Studio -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/zf0d9xpv/91b3d6e1-6194-4e6e-a84d-85cfa3653bc4-removalai-preview-1.png" alt="Android Studio" height="73" />
+      <img src="https://i.postimg.cc/zf0d9xpv/91b3d6e1-6194-4e6e-a84d-85cfa3653bc4-removalai-preview-1.png" alt="Android Studio" height="68" />
     </td>
     <!-- Figma -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
