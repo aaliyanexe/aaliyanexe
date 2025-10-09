@@ -42,7 +42,7 @@ Building clean, efficient UI with a passion for continuous learning.
     </td>
     <!-- Dart -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="75" />
+      <img src="https://i.postimg.cc/50yP18kX/Gemini-Generated-Image-jq6py3jq6py3jq6p-removebg-preview.png" alt="Dart" height="75" />
     </td>
     <!-- Firebase -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
@@ -62,7 +62,7 @@ Building clean, efficient UI with a passion for continuous learning.
     </td>
     <!-- Java -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="75" />
+      <img src="https://i.postimg.cc/j528Kykw/Gemini-Generated-Image-h0bsgbh0bsgbh0bs-removebg-preview-1.png" alt="Java" height="75" />
     </td>
     <!-- REST API -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
@@ -83,15 +83,15 @@ Building clean, efficient UI with a passion for continuous learning.
     </td>
     <!-- VS Code -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="75" />
+      <img src="https://i.postimg.cc/V6v71XHv/1326245a-80a2-447c-81bf-34cf7a0b8e13-removalai-preview-1.png" alt="VS Code" height="75" />
     </td>
     <!-- Android Studio -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="75" />
+      <img src="https://i.postimg.cc/zf0d9xpv/91b3d6e1-6194-4e6e-a84d-85cfa3653bc4-removalai-preview-1.png" alt="Android Studio" height="75" />
     </td>
     <!-- Figma -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="70" />
+      <img src="https://i.postimg.cc/rmshc5YR/figma-1.png" alt="Figma" height="70" />
     </td>
     <!-- Empty -->
     <td align="center" width="120" style="background:#0b1a2d; border-radius:10px; padding:8px;">
