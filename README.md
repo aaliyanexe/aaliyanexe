@@ -1,6 +1,3 @@
-# 👨‍🚀 Ahmed Aaliyan – Mobile Developer
-
----
 
 <p align="center">
   <img src="https://i.postimg.cc/63pNg92S/i-Pad-Apple-Pencil.png" style="max-width: 100%; height: auto;" width="900"/>
@@ -19,18 +16,21 @@
 
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZnMTI5MG8za3EydWR5bGsybW8zZGkybW11bGZzdnoyc2o2dGlsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C5K6WqUDT3963OSHyk/giphy.gif" alt="Dev GIF" height="250" width="250" style="border-radius: 12px; margin-left: 16px;" />
 
-I’m a 3rd-semester Software Engineering student at COMSATS University Islamabad, currently focused on front-end development— mastering HTML, CSS, JavaScript, and expanding into:
+I’m a 3rd-semester Software Engineering student at COMSATS University Islamabad, currently specializing in mobile app development.
 
-- **Git & GitHub** 
-- **React** 
-- **TypeScript**  
-- **Tailwind CSS**
-- **Zod**  
-- **Zustand**
-- **React Router**
+I’m passionate about building seamless, high-performance Flutter applications that merge clean code with thoughtful design. My current focus is on mastering:
 
-Building clean, efficient UI with a passion for continuous learning.
+Flutter & Dart – crafting cross-platform, production-ready apps
 
+UI/UX Design – blending visual storytelling with usability
+
+Firebase – integrating real-time databases, authentication, and cloud storage
+
+Version Control (Git & GitHub) – maintaining efficient, collaborative workflows
+
+App Architecture – exploring scalable patterns like Clean Architecture and MVVM
+
+🌱 Future Goal: Expanding into backend development to become a full-stack mobile developer, capable of delivering end-to-end digital experiences — from elegant front-end interfaces to robust server-side systems.
 
 ---
 
