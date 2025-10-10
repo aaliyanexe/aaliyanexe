@@ -22,7 +22,7 @@ Outside of code, I’m usually sketching new interfaces or studying how design a
 
 </td>
 <td width="42%" align="center" valign="middle">
-  <img src="https://i.postimg.cc/bw8XWkBB/mockuuups-free-transparent-iphone-air-mockup.png" width="380px" alt="iPhone Air Mockup" />
+  <img src="https://i.postimg.cc/qBy346w0/PHONE.png" width="380px" alt="iPhone Air Mockup" />
 </td>
 </tr>
 </table>
