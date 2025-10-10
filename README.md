@@ -7,6 +7,12 @@
 
 ## 👋 About Me
 
+<div align="center">
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
 I’m **Ahmed Aaliyan**, a Mobile Developer crafting **beautiful, high-performance Flutter apps** that merge design and engineering.  
 
 I believe apps should **feel crafted, not coded** — every pixel and frame matters. My process revolves around **clean architecture**, **fluid UI motion**, and building experiences that users *remember*.  
@@ -15,7 +21,19 @@ Currently exploring **Supabase**, **backend patterns**, and **UI micro-interacti
 
 Outside of code, I’m usually sketching new interfaces or studying how design and psychology shape user flow.
 
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://i.postimg.cc/nhrTwL1C/mockuuups-free-transparent-iphone-17-mockup.png" width="230px" alt="Mobile mockup" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
+
 
 ## 🛠️ Skills & Technologies 🛰️
 
