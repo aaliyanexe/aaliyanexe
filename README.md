@@ -24,7 +24,7 @@ Outside of code, I’m usually sketching new interfaces or studying how design a
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="https://i.postimg.cc/bw8XWkBB/mockuuups-free-transparent-iphone-air-mockup.png" width="230px" alt="Mobile mockup" />
+<img src="https://i.postimg.cc/bw8XWkBB/mockuuups-free-transparent-iphone-air-mockup.png" width="400px" alt="Mobile mockup" />
 
 </td>
 </tr>
