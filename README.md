@@ -10,7 +10,7 @@
 <tr>
 <td width="58%" valign="top" align="left">
 
-### Designing Code. Developing Design.
+## Designing Code. Developing Design.
 
 I’m **Ahmed Aaliyan**, a Mobile Developer crafting **beautiful, high-performance Flutter apps** that merge design and engineering.  
 
