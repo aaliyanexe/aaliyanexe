@@ -27,7 +27,7 @@ Outside of code, you’ll often find me **sketching interface ideas**, experimen
 
 </td>
 <td width="42%" align="center" valign="middle">
-  <img src="https://i.postimg.cc/qBy346w0/PHONE.png" width="380px" alt="iPhone Air Mockup" />
+  <img src="https://i.postimg.cc/KzzhQTYF/PHONE-v2.png" width="380px" alt="iPhone Air Mockup" />
 </td>
 </tr>
 </table>
