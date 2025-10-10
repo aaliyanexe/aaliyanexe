@@ -11,7 +11,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 I’m **Ahmed Aaliyan**, a Mobile Developer crafting **beautiful, high-performance Flutter apps** that merge design and engineering.  
 
@@ -22,15 +22,12 @@ Currently exploring **Supabase**, **backend patterns**, and **UI micro-interacti
 Outside of code, I’m usually sketching new interfaces or studying how design and psychology shape user flow.
 
 </td>
-<td width="40%" align="center" valign="middle">
-<img src="https://i.postimg.cc/bw8XWkBB/mockuuups-free-transparent-iphone-air-mockup.png" width="360px" alt="iPhone Air Mockup" />
+<td width="42%" align="center" valign="middle">
+  <img src="https://i.postimg.cc/bw8XWkBB/mockuuups-free-transparent-iphone-air-mockup.png" width="390px" alt="iPhone Air Mockup" />
 </td>
 </tr>
 </table>
 </div>
-
----
-
 
 ---
 
