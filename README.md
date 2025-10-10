@@ -9,16 +9,21 @@
 <table>
 <tr>
 <td width="58%" valign="top" align="left">
+  
+### Designing Code. Developing Design.
 
-## Designing Code. Developing Design.
+I’m **Ahmed Aaliyan** — a Mobile Developer focused on building **beautiful, high-performance Flutter apps** that merge design and engineering.  
 
-I’m **Ahmed Aaliyan**, a Mobile Developer crafting **beautiful, high-performance Flutter apps** that merge design and engineering.  
+Here’s what defines my work and mindset:
 
-I believe apps should **feel crafted, not coded** — every pixel and frame matters. My process revolves around **clean architecture**, **fluid UI motion**, and building experiences that users *remember*.  
+-  **Craftsmanship over code:** I believe apps should *feel crafted, not coded.* Every pixel, frame, and interaction should carry intention.  
+-  **Clean architecture mindset:** I love structuring code that’s scalable, testable, and feels effortless to maintain.  
+-  **Design-driven development:** My workflow revolves around turning UI/UX principles into live, fluid, and meaningful app experiences.  
+-  **Constant learner:** Currently exploring **Supabase**, **backend patterns**, and **micro-interactions** to push the mobile experience further.  
+-  **Design + psychology:** I study how visual language and cognitive flow shape user experience — blending logic and emotion.  
 
-Currently exploring **Supabase**, **backend patterns**, and **UI micro-interactions** to push mobile UX even further.  
+Outside of code, you’ll often find me **sketching interface ideas**, experimenting in **Figma**, or refining design concepts into **interactive prototypes**.
 
-Outside of code, I’m usually sketching new interfaces or studying how design and psychology shape user flow.
 
 </td>
 <td width="42%" align="center" valign="middle">
