@@ -6,11 +6,9 @@
 ---
 
 ## 👋 About Me
-
-<div align="center">
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="58%" valign="top" align="left">
 
 ### Designing Code. Developing Design.
 
@@ -24,12 +22,10 @@ Outside of code, I’m usually sketching new interfaces or studying how design a
 
 </td>
 <td width="42%" align="center" valign="middle">
-  <img src="https://i.postimg.cc/bw8XWkBB/mockuuups-free-transparent-iphone-air-mockup.png" width="360px" alt="iPhone Air Mockup" />
+  <img src="https://i.postimg.cc/bw8XWkBB/mockuuups-free-transparent-iphone-air-mockup.png" width="380px" alt="iPhone Air Mockup" />
 </td>
 </tr>
 </table>
-</div>
-
 
 ---
 
