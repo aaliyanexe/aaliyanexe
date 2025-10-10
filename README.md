@@ -32,7 +32,6 @@ Outside of code, you’ll often find me **sketching interface ideas**, experimen
 </tr>
 </table>
 
----
 
 
 ## 🛠️ Skills & Technologies 🛰️
