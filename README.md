@@ -5,13 +5,14 @@
 
 ---
 
-
 ## 👋 About Me
 
 <div align="center">
 <table>
 <tr>
 <td width="58%" valign="top">
+
+### Designing Code. Developing Design.
 
 I’m **Ahmed Aaliyan**, a Mobile Developer crafting **beautiful, high-performance Flutter apps** that merge design and engineering.  
 
@@ -28,6 +29,7 @@ Outside of code, I’m usually sketching new interfaces or studying how design a
 </tr>
 </table>
 </div>
+
 
 ---
 
