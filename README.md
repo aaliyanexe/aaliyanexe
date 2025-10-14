@@ -44,7 +44,7 @@ Outside of code, you’ll often find me **sketching interface ideas**, experimen
     </td>
     <!-- Dart -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:10px;">
-      <img src="https://i.postimg.cc/mkmppx2x/Frame-11.png" alt="Dart" height="68" />
+      <img src="https://i.postimg.cc/mkmppx2x/Frame-11.png" alt="Dart" height="80" />
     </td>
     <!-- Firebase -->
     <td align="center" width="130" style="background:#0b1a2d; border-radius:10px; padding:5px;">
