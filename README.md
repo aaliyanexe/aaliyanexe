@@ -110,8 +110,8 @@ Outside of code, you’ll often find me **sketching interface ideas**, experimen
 <div align="center">
 
   <!-- Top row: GitHub Stats + Top Languages -->
-<img src="https://github-readme-stats-aaliyandevxs-projects.vercel.app/api?username=aaliyanexe&show_icons=true&count_private=true&theme=github_dark&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20Stats" width="52%" />
-  <img src="https://github-readme-stats-aaliyandevxs-projects.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=facc15&text_color=ffffff&border_color=30363d&hide_border=false" width="43%" />
+<img src="https://github-readme-stats-rho-liart-30.vercel.app/api?username=aaliyanexe&show_icons=true&count_private=true&theme=github_dark&title_color=facc15&icon_color=facc15&text_color=ffffff&border_color=30363d&hide_border=false&custom_title=Aaliyan's%20Stats" width="52%" />
+  <img src="https://github-readme-stats-rho-liart-30.vercel.app/api/top-langs/?username=aaliyanexe&layout=compact&theme=github_dark&title_color=facc15&text_color=ffffff&border_color=30363d&hide_border=false" width="43%" />
   
   <!-- Second row: Streak Stats -->
   <img src="https://github-readme-streak-stats-91to.vercel.app?user=aaliyanexe&theme=github-dark&ring=facc15&fire=facc15&currStreakNum=facc15&sideNums=facc15&sideLabels=ffffff&dates=ffffff&border=30363d" width="50%"/>
